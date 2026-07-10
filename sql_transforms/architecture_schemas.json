@@ -1,0 +1,72 @@
+{
+  "wd_admissions_pipeline": [
+    {
+      "name": "student_id",
+      "type": "STRING",
+      "mode": "REQUIRED",
+      "description": "Unique internal primary student identifier."
+    },
+    {
+      "name": "campus_location",
+      "type": "STRING",
+      "mode": "NULLABLE",
+      "description": "Specific physical campus operational zone (Waco, North Texas, Williamson County)."
+    },
+    {
+      "name": "program_of_study",
+      "type": "STRING",
+      "mode": "NULLABLE",
+      "description": "Technical trade pathway (Cybersecurity, Welding, Diesel Equipment, Automation)."
+    },
+    {
+      "name": "application_status",
+      "type": "STRING",
+      "mode": "NULLABLE",
+      "description": "Current pipeline lifecycle stage (Applied, Admitted, Matriculated)."
+    },
+    {
+      "name": "active_registration_hold",
+      "type": "INTEGER",
+      "mode": "NULLABLE",
+      "description": "Binary indicator flags (1 = True, 0 = False)."
+    }
+  ],
+  "wd_financial_aid_bps": [
+    {
+      "name": "event_instance_id",
+      "type": "STRING",
+      "mode": "REQUIRED",
+      "description": "Unique alphanumeric system event string."
+    },
+    {
+      "name": "student_id",
+      "type": "STRING",
+      "mode": "REQUIRED",
+      "description": "Foreign key connecting to the admissions pipeline."
+    },
+    {
+      "name": "bp_step_status",
+      "type": "STRING",
+      "mode": "NULLABLE",
+      "description": "Operational state of the step (Approved, Awaiting Action, Exception)."
+    },
+    {
+      "name": "assigned_security_group",
+      "type": "STRING",
+      "mode": "NULLABLE",
+      "description": "Targeted resolution tier (Financial_Aid_Partner, Central_IT_Architect, Enrollment_Coach)."
+    },
+    {
+      "name": "elapsed_time_hours",
+      "type": "FLOAT",
+      "mode": "NULLABLE",
+      "description": "Total processing time the record has remained at the current step."
+    },
+    {
+      "name": "isir_verification_required",
+      "type": "INTEGER",
+      "mode": "NULLABLE",
+      "description": "Binary indicator for federal verification profiles (1 = True, 0 = False)."
+    }
+  ]
+}
