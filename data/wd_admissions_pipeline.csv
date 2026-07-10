@@ -1,0 +1,1201 @@
+student_id,campus_location,program_of_study,application_status,active_registration_hold
+STU-10001,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10002,Waco,Diesel Equipment,Admitted,1
+STU-10003,Waco,Diesel Equipment,Applied,0
+STU-10004,Williamson County,Cybersecurity,Matriculated,0
+STU-10005,North Texas,Diesel Equipment,Admitted,0
+STU-10006,Waco,Diesel Equipment,Applied,0
+STU-10007,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-10008,Waco,Welding Labs,Admitted,1
+STU-10009,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10010,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10011,Williamson County,Diesel Equipment,Admitted,0
+STU-10012,Williamson County,Diesel Equipment,Applied,1
+STU-10013,Williamson County,Automation & Advanced Manufacturing,Matriculated,1
+STU-10014,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10015,Williamson County,Diesel Equipment,Admitted,0
+STU-10016,North Texas,Welding Labs,Matriculated,0
+STU-10017,Waco,Welding Labs,Matriculated,1
+STU-10018,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-10019,Waco,Welding Labs,Admitted,1
+STU-10020,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10021,Waco,Cybersecurity,Admitted,1
+STU-10022,Williamson County,Diesel Equipment,Applied,0
+STU-10023,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10024,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10025,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10026,Waco,Welding Labs,Admitted,1
+STU-10027,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10028,Williamson County,Cybersecurity,Applied,0
+STU-10029,Williamson County,Welding Labs,Matriculated,0
+STU-10030,Williamson County,Diesel Equipment,Matriculated,0
+STU-10031,North Texas,Cybersecurity,Applied,0
+STU-10032,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10033,North Texas,Cybersecurity,Admitted,0
+STU-10034,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-10035,North Texas,Cybersecurity,Matriculated,1
+STU-10036,Waco,Welding Labs,Matriculated,0
+STU-10037,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10038,Williamson County,Welding Labs,Applied,0
+STU-10039,North Texas,Cybersecurity,Applied,0
+STU-10040,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10041,North Texas,Diesel Equipment,Matriculated,0
+STU-10042,Waco,Diesel Equipment,Matriculated,1
+STU-10043,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10044,North Texas,Cybersecurity,Matriculated,1
+STU-10045,Waco,Diesel Equipment,Applied,0
+STU-10046,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10047,North Texas,Diesel Equipment,Applied,0
+STU-10048,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-10049,North Texas,Cybersecurity,Admitted,0
+STU-10050,North Texas,Cybersecurity,Applied,0
+STU-10051,Williamson County,Welding Labs,Applied,1
+STU-10052,North Texas,Diesel Equipment,Applied,1
+STU-10053,Waco,Welding Labs,Matriculated,1
+STU-10054,Williamson County,Cybersecurity,Applied,1
+STU-10055,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10056,Williamson County,Cybersecurity,Admitted,1
+STU-10057,Waco,Cybersecurity,Applied,1
+STU-10058,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10059,Waco,Welding Labs,Matriculated,1
+STU-10060,Williamson County,Diesel Equipment,Matriculated,0
+STU-10061,North Texas,Cybersecurity,Applied,0
+STU-10062,Williamson County,Cybersecurity,Admitted,0
+STU-10063,Williamson County,Diesel Equipment,Applied,1
+STU-10064,North Texas,Cybersecurity,Matriculated,0
+STU-10065,Williamson County,Diesel Equipment,Admitted,0
+STU-10066,Waco,Diesel Equipment,Admitted,1
+STU-10067,Williamson County,Diesel Equipment,Admitted,0
+STU-10068,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-10069,Waco,Welding Labs,Matriculated,0
+STU-10070,Williamson County,Welding Labs,Matriculated,1
+STU-10071,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10072,North Texas,Welding Labs,Admitted,0
+STU-10073,Waco,Welding Labs,Admitted,1
+STU-10074,Waco,Welding Labs,Admitted,1
+STU-10075,Waco,Cybersecurity,Matriculated,0
+STU-10076,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10077,North Texas,Welding Labs,Admitted,1
+STU-10078,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10079,Williamson County,Welding Labs,Matriculated,0
+STU-10080,North Texas,Welding Labs,Admitted,0
+STU-10081,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-10082,North Texas,Diesel Equipment,Applied,0
+STU-10083,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10084,Waco,Diesel Equipment,Admitted,0
+STU-10085,Williamson County,Cybersecurity,Admitted,0
+STU-10086,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10087,Williamson County,Diesel Equipment,Matriculated,0
+STU-10088,Williamson County,Welding Labs,Applied,0
+STU-10089,Williamson County,Cybersecurity,Matriculated,1
+STU-10090,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10091,Williamson County,Diesel Equipment,Applied,0
+STU-10092,Williamson County,Diesel Equipment,Admitted,0
+STU-10093,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10094,Williamson County,Diesel Equipment,Matriculated,0
+STU-10095,Williamson County,Automation & Advanced Manufacturing,Matriculated,1
+STU-10096,Waco,Diesel Equipment,Matriculated,1
+STU-10097,Waco,Welding Labs,Admitted,1
+STU-10098,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10099,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10100,North Texas,Cybersecurity,Applied,0
+STU-10101,Williamson County,Welding Labs,Admitted,0
+STU-10102,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10103,Williamson County,Diesel Equipment,Admitted,0
+STU-10104,Waco,Diesel Equipment,Matriculated,1
+STU-10105,Williamson County,Diesel Equipment,Applied,1
+STU-10106,North Texas,Cybersecurity,Admitted,0
+STU-10107,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10108,Waco,Diesel Equipment,Matriculated,1
+STU-10109,Waco,Cybersecurity,Matriculated,1
+STU-10110,North Texas,Cybersecurity,Admitted,0
+STU-10111,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10112,North Texas,Diesel Equipment,Admitted,0
+STU-10113,Waco,Welding Labs,Matriculated,1
+STU-10114,Waco,Diesel Equipment,Matriculated,1
+STU-10115,Williamson County,Welding Labs,Matriculated,0
+STU-10116,Williamson County,Welding Labs,Admitted,1
+STU-10117,North Texas,Diesel Equipment,Admitted,1
+STU-10118,Waco,Welding Labs,Applied,1
+STU-10119,Williamson County,Cybersecurity,Matriculated,1
+STU-10120,North Texas,Cybersecurity,Admitted,0
+STU-10121,North Texas,Diesel Equipment,Applied,1
+STU-10122,Williamson County,Automation & Advanced Manufacturing,Applied,1
+STU-10123,North Texas,Cybersecurity,Matriculated,0
+STU-10124,Waco,Diesel Equipment,Matriculated,1
+STU-10125,North Texas,Welding Labs,Admitted,0
+STU-10126,Waco,Cybersecurity,Applied,0
+STU-10127,Waco,Diesel Equipment,Matriculated,0
+STU-10128,Williamson County,Diesel Equipment,Matriculated,1
+STU-10129,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10130,Williamson County,Welding Labs,Matriculated,0
+STU-10131,North Texas,Welding Labs,Applied,0
+STU-10132,Williamson County,Welding Labs,Applied,0
+STU-10133,Williamson County,Diesel Equipment,Matriculated,0
+STU-10134,North Texas,Diesel Equipment,Applied,0
+STU-10135,Williamson County,Welding Labs,Applied,1
+STU-10136,North Texas,Diesel Equipment,Admitted,0
+STU-10137,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10138,Waco,Diesel Equipment,Matriculated,1
+STU-10139,Waco,Diesel Equipment,Applied,1
+STU-10140,Williamson County,Cybersecurity,Applied,1
+STU-10141,North Texas,Automation & Advanced Manufacturing,Matriculated,1
+STU-10142,Waco,Cybersecurity,Applied,1
+STU-10143,Waco,Welding Labs,Applied,1
+STU-10144,Waco,Welding Labs,Applied,0
+STU-10145,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10146,Williamson County,Diesel Equipment,Admitted,0
+STU-10147,Waco,Cybersecurity,Admitted,1
+STU-10148,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10149,North Texas,Cybersecurity,Matriculated,0
+STU-10150,Williamson County,Diesel Equipment,Matriculated,0
+STU-10151,Waco,Cybersecurity,Matriculated,1
+STU-10152,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10153,North Texas,Diesel Equipment,Admitted,0
+STU-10154,Williamson County,Diesel Equipment,Matriculated,0
+STU-10155,North Texas,Automation & Advanced Manufacturing,Admitted,1
+STU-10156,Williamson County,Diesel Equipment,Applied,0
+STU-10157,North Texas,Cybersecurity,Applied,0
+STU-10158,Williamson County,Welding Labs,Matriculated,1
+STU-10159,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10160,Williamson County,Cybersecurity,Admitted,0
+STU-10161,Williamson County,Diesel Equipment,Applied,0
+STU-10162,Waco,Welding Labs,Applied,1
+STU-10163,Williamson County,Cybersecurity,Matriculated,0
+STU-10164,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10165,North Texas,Diesel Equipment,Admitted,0
+STU-10166,Williamson County,Automation & Advanced Manufacturing,Matriculated,1
+STU-10167,North Texas,Cybersecurity,Admitted,0
+STU-10168,Waco,Welding Labs,Applied,0
+STU-10169,North Texas,Cybersecurity,Matriculated,0
+STU-10170,North Texas,Cybersecurity,Matriculated,0
+STU-10171,Waco,Diesel Equipment,Matriculated,1
+STU-10172,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10173,Waco,Cybersecurity,Applied,0
+STU-10174,Williamson County,Cybersecurity,Applied,0
+STU-10175,Williamson County,Welding Labs,Applied,0
+STU-10176,North Texas,Welding Labs,Matriculated,0
+STU-10177,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10178,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10179,Williamson County,Diesel Equipment,Applied,1
+STU-10180,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10181,Williamson County,Welding Labs,Matriculated,0
+STU-10182,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10183,Williamson County,Cybersecurity,Admitted,1
+STU-10184,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-10185,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10186,Waco,Diesel Equipment,Applied,1
+STU-10187,Waco,Cybersecurity,Admitted,0
+STU-10188,North Texas,Diesel Equipment,Admitted,0
+STU-10189,Waco,Welding Labs,Admitted,0
+STU-10190,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10191,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10192,Waco,Welding Labs,Matriculated,0
+STU-10193,Williamson County,Diesel Equipment,Applied,1
+STU-10194,North Texas,Cybersecurity,Admitted,0
+STU-10195,North Texas,Diesel Equipment,Matriculated,0
+STU-10196,Waco,Diesel Equipment,Applied,1
+STU-10197,Waco,Cybersecurity,Matriculated,1
+STU-10198,North Texas,Automation & Advanced Manufacturing,Matriculated,1
+STU-10199,North Texas,Diesel Equipment,Applied,1
+STU-10200,Waco,Welding Labs,Applied,0
+STU-10201,Waco,Cybersecurity,Admitted,1
+STU-10202,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10203,Williamson County,Cybersecurity,Admitted,0
+STU-10204,Waco,Welding Labs,Matriculated,1
+STU-10205,Waco,Cybersecurity,Admitted,0
+STU-10206,Williamson County,Cybersecurity,Applied,0
+STU-10207,North Texas,Diesel Equipment,Matriculated,0
+STU-10208,Waco,Welding Labs,Applied,1
+STU-10209,Williamson County,Welding Labs,Matriculated,0
+STU-10210,Waco,Welding Labs,Applied,0
+STU-10211,Waco,Cybersecurity,Applied,0
+STU-10212,Williamson County,Welding Labs,Admitted,0
+STU-10213,North Texas,Welding Labs,Admitted,0
+STU-10214,Williamson County,Welding Labs,Matriculated,0
+STU-10215,Waco,Diesel Equipment,Admitted,1
+STU-10216,North Texas,Welding Labs,Matriculated,0
+STU-10217,Williamson County,Cybersecurity,Applied,0
+STU-10218,Williamson County,Diesel Equipment,Matriculated,0
+STU-10219,North Texas,Welding Labs,Applied,0
+STU-10220,Waco,Welding Labs,Applied,0
+STU-10221,Williamson County,Diesel Equipment,Applied,0
+STU-10222,Williamson County,Welding Labs,Matriculated,0
+STU-10223,Williamson County,Cybersecurity,Matriculated,0
+STU-10224,Waco,Cybersecurity,Admitted,1
+STU-10225,Williamson County,Welding Labs,Admitted,0
+STU-10226,North Texas,Cybersecurity,Applied,0
+STU-10227,North Texas,Diesel Equipment,Applied,1
+STU-10228,Williamson County,Welding Labs,Matriculated,0
+STU-10229,Williamson County,Diesel Equipment,Admitted,1
+STU-10230,North Texas,Cybersecurity,Matriculated,0
+STU-10231,North Texas,Welding Labs,Matriculated,1
+STU-10232,Williamson County,Diesel Equipment,Matriculated,0
+STU-10233,North Texas,Cybersecurity,Applied,0
+STU-10234,Waco,Welding Labs,Applied,1
+STU-10235,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10236,Waco,Cybersecurity,Applied,1
+STU-10237,Waco,Cybersecurity,Applied,0
+STU-10238,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10239,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-10240,Williamson County,Diesel Equipment,Matriculated,0
+STU-10241,Williamson County,Cybersecurity,Admitted,1
+STU-10242,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10243,Williamson County,Welding Labs,Admitted,1
+STU-10244,Waco,Cybersecurity,Applied,0
+STU-10245,Waco,Diesel Equipment,Matriculated,0
+STU-10246,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-10247,Williamson County,Cybersecurity,Matriculated,0
+STU-10248,Williamson County,Cybersecurity,Admitted,1
+STU-10249,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10250,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10251,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-10252,Waco,Cybersecurity,Admitted,1
+STU-10253,North Texas,Automation & Advanced Manufacturing,Matriculated,1
+STU-10254,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10255,Williamson County,Cybersecurity,Matriculated,0
+STU-10256,Waco,Cybersecurity,Matriculated,1
+STU-10257,North Texas,Diesel Equipment,Applied,1
+STU-10258,Williamson County,Welding Labs,Matriculated,0
+STU-10259,North Texas,Cybersecurity,Matriculated,0
+STU-10260,Waco,Welding Labs,Admitted,0
+STU-10261,Williamson County,Diesel Equipment,Applied,0
+STU-10262,Waco,Diesel Equipment,Applied,0
+STU-10263,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10264,Williamson County,Diesel Equipment,Applied,0
+STU-10265,Williamson County,Automation & Advanced Manufacturing,Applied,1
+STU-10266,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10267,Waco,Cybersecurity,Matriculated,0
+STU-10268,North Texas,Cybersecurity,Matriculated,0
+STU-10269,North Texas,Welding Labs,Matriculated,0
+STU-10270,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10271,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10272,Waco,Welding Labs,Applied,0
+STU-10273,Williamson County,Automation & Advanced Manufacturing,Matriculated,1
+STU-10274,North Texas,Diesel Equipment,Admitted,1
+STU-10275,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10276,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10277,North Texas,Automation & Advanced Manufacturing,Applied,1
+STU-10278,North Texas,Cybersecurity,Admitted,0
+STU-10279,Williamson County,Diesel Equipment,Matriculated,0
+STU-10280,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10281,Williamson County,Diesel Equipment,Admitted,1
+STU-10282,Williamson County,Diesel Equipment,Applied,0
+STU-10283,Williamson County,Diesel Equipment,Matriculated,0
+STU-10284,Waco,Welding Labs,Matriculated,0
+STU-10285,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10286,North Texas,Cybersecurity,Admitted,0
+STU-10287,Williamson County,Cybersecurity,Applied,0
+STU-10288,North Texas,Cybersecurity,Matriculated,0
+STU-10289,Waco,Cybersecurity,Admitted,1
+STU-10290,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10291,Waco,Cybersecurity,Matriculated,1
+STU-10292,Waco,Diesel Equipment,Applied,1
+STU-10293,Williamson County,Welding Labs,Applied,1
+STU-10294,North Texas,Cybersecurity,Admitted,0
+STU-10295,Waco,Diesel Equipment,Applied,0
+STU-10296,North Texas,Cybersecurity,Admitted,0
+STU-10297,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10298,North Texas,Diesel Equipment,Matriculated,0
+STU-10299,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10300,Waco,Cybersecurity,Matriculated,0
+STU-10301,Waco,Diesel Equipment,Admitted,1
+STU-10302,North Texas,Diesel Equipment,Admitted,0
+STU-10303,Williamson County,Diesel Equipment,Admitted,0
+STU-10304,Waco,Cybersecurity,Applied,1
+STU-10305,Waco,Welding Labs,Applied,1
+STU-10306,Williamson County,Welding Labs,Applied,1
+STU-10307,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10308,Waco,Welding Labs,Admitted,1
+STU-10309,Waco,Cybersecurity,Admitted,1
+STU-10310,Waco,Diesel Equipment,Admitted,1
+STU-10311,Waco,Diesel Equipment,Applied,1
+STU-10312,North Texas,Cybersecurity,Applied,0
+STU-10313,North Texas,Diesel Equipment,Applied,0
+STU-10314,North Texas,Welding Labs,Applied,1
+STU-10315,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-10316,North Texas,Cybersecurity,Admitted,0
+STU-10317,Waco,Diesel Equipment,Matriculated,0
+STU-10318,Waco,Cybersecurity,Matriculated,0
+STU-10319,North Texas,Welding Labs,Matriculated,0
+STU-10320,Waco,Diesel Equipment,Admitted,0
+STU-10321,North Texas,Diesel Equipment,Applied,0
+STU-10322,North Texas,Diesel Equipment,Applied,0
+STU-10323,North Texas,Diesel Equipment,Applied,0
+STU-10324,North Texas,Cybersecurity,Admitted,0
+STU-10325,North Texas,Welding Labs,Matriculated,1
+STU-10326,Williamson County,Welding Labs,Applied,0
+STU-10327,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10328,Williamson County,Cybersecurity,Matriculated,0
+STU-10329,Williamson County,Welding Labs,Admitted,0
+STU-10330,Williamson County,Cybersecurity,Admitted,0
+STU-10331,North Texas,Cybersecurity,Applied,0
+STU-10332,Waco,Welding Labs,Admitted,1
+STU-10333,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-10334,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10335,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10336,Waco,Diesel Equipment,Matriculated,0
+STU-10337,Williamson County,Welding Labs,Matriculated,1
+STU-10338,Williamson County,Diesel Equipment,Applied,0
+STU-10339,Williamson County,Diesel Equipment,Matriculated,0
+STU-10340,Waco,Diesel Equipment,Matriculated,0
+STU-10341,Williamson County,Cybersecurity,Applied,0
+STU-10342,North Texas,Cybersecurity,Matriculated,0
+STU-10343,Waco,Welding Labs,Admitted,1
+STU-10344,Waco,Welding Labs,Applied,1
+STU-10345,Williamson County,Cybersecurity,Applied,0
+STU-10346,North Texas,Cybersecurity,Admitted,0
+STU-10347,Williamson County,Diesel Equipment,Admitted,0
+STU-10348,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10349,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10350,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10351,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10352,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10353,Waco,Diesel Equipment,Admitted,0
+STU-10354,Waco,Welding Labs,Admitted,1
+STU-10355,Williamson County,Cybersecurity,Admitted,0
+STU-10356,Waco,Diesel Equipment,Admitted,1
+STU-10357,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10358,Waco,Cybersecurity,Applied,1
+STU-10359,North Texas,Diesel Equipment,Admitted,1
+STU-10360,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-10361,Williamson County,Diesel Equipment,Applied,0
+STU-10362,Waco,Cybersecurity,Matriculated,1
+STU-10363,Williamson County,Welding Labs,Matriculated,0
+STU-10364,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10365,Waco,Cybersecurity,Matriculated,0
+STU-10366,Williamson County,Cybersecurity,Matriculated,0
+STU-10367,Waco,Welding Labs,Applied,0
+STU-10368,North Texas,Diesel Equipment,Admitted,1
+STU-10369,Williamson County,Welding Labs,Applied,0
+STU-10370,Williamson County,Welding Labs,Applied,0
+STU-10371,Williamson County,Diesel Equipment,Admitted,0
+STU-10372,Williamson County,Diesel Equipment,Applied,0
+STU-10373,North Texas,Diesel Equipment,Admitted,0
+STU-10374,North Texas,Cybersecurity,Admitted,0
+STU-10375,Waco,Cybersecurity,Matriculated,0
+STU-10376,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10377,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-10378,North Texas,Welding Labs,Admitted,0
+STU-10379,Waco,Welding Labs,Admitted,1
+STU-10380,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10381,North Texas,Welding Labs,Matriculated,0
+STU-10382,Waco,Diesel Equipment,Matriculated,1
+STU-10383,Williamson County,Cybersecurity,Applied,0
+STU-10384,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-10385,North Texas,Cybersecurity,Admitted,0
+STU-10386,North Texas,Automation & Advanced Manufacturing,Matriculated,1
+STU-10387,North Texas,Cybersecurity,Matriculated,0
+STU-10388,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10389,Waco,Cybersecurity,Admitted,1
+STU-10390,North Texas,Diesel Equipment,Admitted,1
+STU-10391,Williamson County,Automation & Advanced Manufacturing,Applied,1
+STU-10392,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10393,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10394,Waco,Diesel Equipment,Admitted,0
+STU-10395,Williamson County,Cybersecurity,Matriculated,0
+STU-10396,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10397,Williamson County,Cybersecurity,Matriculated,1
+STU-10398,North Texas,Diesel Equipment,Admitted,0
+STU-10399,Waco,Welding Labs,Matriculated,1
+STU-10400,North Texas,Automation & Advanced Manufacturing,Applied,1
+STU-10401,Waco,Diesel Equipment,Admitted,0
+STU-10402,Waco,Cybersecurity,Admitted,1
+STU-10403,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10404,North Texas,Cybersecurity,Admitted,1
+STU-10405,Waco,Welding Labs,Admitted,1
+STU-10406,North Texas,Automation & Advanced Manufacturing,Applied,1
+STU-10407,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10408,Williamson County,Cybersecurity,Applied,0
+STU-10409,North Texas,Automation & Advanced Manufacturing,Matriculated,1
+STU-10410,Williamson County,Diesel Equipment,Matriculated,0
+STU-10411,Williamson County,Diesel Equipment,Applied,0
+STU-10412,Williamson County,Welding Labs,Matriculated,1
+STU-10413,Waco,Diesel Equipment,Matriculated,1
+STU-10414,Williamson County,Welding Labs,Applied,0
+STU-10415,Williamson County,Cybersecurity,Matriculated,0
+STU-10416,North Texas,Cybersecurity,Admitted,0
+STU-10417,Williamson County,Welding Labs,Matriculated,0
+STU-10418,Waco,Diesel Equipment,Applied,1
+STU-10419,Waco,Diesel Equipment,Admitted,1
+STU-10420,North Texas,Welding Labs,Admitted,1
+STU-10421,Waco,Welding Labs,Matriculated,1
+STU-10422,Waco,Cybersecurity,Applied,1
+STU-10423,Williamson County,Welding Labs,Admitted,0
+STU-10424,Williamson County,Diesel Equipment,Matriculated,0
+STU-10425,Waco,Welding Labs,Admitted,1
+STU-10426,North Texas,Welding Labs,Applied,0
+STU-10427,North Texas,Welding Labs,Matriculated,0
+STU-10428,Williamson County,Cybersecurity,Admitted,1
+STU-10429,Waco,Welding Labs,Applied,0
+STU-10430,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10431,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10432,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10433,Williamson County,Diesel Equipment,Matriculated,0
+STU-10434,Williamson County,Diesel Equipment,Admitted,0
+STU-10435,North Texas,Welding Labs,Admitted,0
+STU-10436,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10437,North Texas,Cybersecurity,Admitted,0
+STU-10438,North Texas,Automation & Advanced Manufacturing,Matriculated,1
+STU-10439,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10440,Waco,Diesel Equipment,Matriculated,0
+STU-10441,Williamson County,Diesel Equipment,Admitted,0
+STU-10442,North Texas,Cybersecurity,Matriculated,1
+STU-10443,North Texas,Diesel Equipment,Matriculated,0
+STU-10444,Waco,Cybersecurity,Matriculated,1
+STU-10445,Waco,Diesel Equipment,Admitted,1
+STU-10446,North Texas,Automation & Advanced Manufacturing,Matriculated,1
+STU-10447,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10448,Williamson County,Cybersecurity,Admitted,1
+STU-10449,North Texas,Cybersecurity,Matriculated,0
+STU-10450,Waco,Diesel Equipment,Matriculated,0
+STU-10451,Williamson County,Diesel Equipment,Matriculated,1
+STU-10452,North Texas,Cybersecurity,Matriculated,0
+STU-10453,Williamson County,Cybersecurity,Applied,0
+STU-10454,Williamson County,Automation & Advanced Manufacturing,Applied,1
+STU-10455,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10456,Williamson County,Cybersecurity,Matriculated,0
+STU-10457,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10458,Waco,Welding Labs,Admitted,1
+STU-10459,Waco,Diesel Equipment,Applied,0
+STU-10460,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10461,Waco,Welding Labs,Matriculated,0
+STU-10462,Williamson County,Cybersecurity,Applied,0
+STU-10463,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10464,North Texas,Cybersecurity,Matriculated,0
+STU-10465,Williamson County,Diesel Equipment,Matriculated,1
+STU-10466,Williamson County,Cybersecurity,Matriculated,0
+STU-10467,Waco,Welding Labs,Admitted,0
+STU-10468,North Texas,Cybersecurity,Admitted,1
+STU-10469,Waco,Welding Labs,Admitted,1
+STU-10470,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10471,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10472,North Texas,Welding Labs,Applied,1
+STU-10473,Waco,Diesel Equipment,Admitted,0
+STU-10474,North Texas,Diesel Equipment,Applied,1
+STU-10475,Waco,Diesel Equipment,Matriculated,1
+STU-10476,Williamson County,Automation & Advanced Manufacturing,Matriculated,1
+STU-10477,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10478,Williamson County,Diesel Equipment,Matriculated,0
+STU-10479,Waco,Cybersecurity,Matriculated,1
+STU-10480,North Texas,Diesel Equipment,Matriculated,0
+STU-10481,Williamson County,Cybersecurity,Matriculated,0
+STU-10482,North Texas,Diesel Equipment,Applied,0
+STU-10483,Williamson County,Cybersecurity,Admitted,0
+STU-10484,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10485,Waco,Diesel Equipment,Admitted,0
+STU-10486,Waco,Diesel Equipment,Admitted,1
+STU-10487,Waco,Welding Labs,Matriculated,0
+STU-10488,Waco,Diesel Equipment,Matriculated,0
+STU-10489,North Texas,Cybersecurity,Matriculated,1
+STU-10490,Waco,Welding Labs,Matriculated,1
+STU-10491,Waco,Diesel Equipment,Applied,0
+STU-10492,Williamson County,Diesel Equipment,Admitted,0
+STU-10493,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10494,North Texas,Welding Labs,Admitted,0
+STU-10495,Williamson County,Cybersecurity,Applied,0
+STU-10496,Williamson County,Diesel Equipment,Admitted,0
+STU-10497,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10498,North Texas,Diesel Equipment,Applied,0
+STU-10499,Waco,Welding Labs,Applied,0
+STU-10500,Williamson County,Cybersecurity,Matriculated,1
+STU-10501,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10502,North Texas,Diesel Equipment,Admitted,0
+STU-10503,Waco,Cybersecurity,Admitted,0
+STU-10504,North Texas,Diesel Equipment,Admitted,1
+STU-10505,Waco,Diesel Equipment,Admitted,1
+STU-10506,Waco,Welding Labs,Applied,1
+STU-10507,North Texas,Welding Labs,Matriculated,1
+STU-10508,North Texas,Diesel Equipment,Admitted,1
+STU-10509,North Texas,Automation & Advanced Manufacturing,Admitted,1
+STU-10510,Waco,Welding Labs,Admitted,0
+STU-10511,Waco,Welding Labs,Applied,0
+STU-10512,Waco,Welding Labs,Admitted,0
+STU-10513,Williamson County,Welding Labs,Matriculated,1
+STU-10514,Waco,Cybersecurity,Matriculated,1
+STU-10515,North Texas,Diesel Equipment,Admitted,0
+STU-10516,North Texas,Cybersecurity,Admitted,0
+STU-10517,North Texas,Cybersecurity,Applied,0
+STU-10518,Waco,Diesel Equipment,Admitted,0
+STU-10519,North Texas,Welding Labs,Applied,1
+STU-10520,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10521,Williamson County,Welding Labs,Applied,0
+STU-10522,Williamson County,Welding Labs,Applied,0
+STU-10523,North Texas,Welding Labs,Admitted,1
+STU-10524,Williamson County,Welding Labs,Matriculated,1
+STU-10525,Williamson County,Automation & Advanced Manufacturing,Applied,1
+STU-10526,North Texas,Cybersecurity,Matriculated,0
+STU-10527,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10528,Waco,Diesel Equipment,Matriculated,1
+STU-10529,North Texas,Welding Labs,Applied,0
+STU-10530,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10531,Williamson County,Diesel Equipment,Applied,1
+STU-10532,North Texas,Automation & Advanced Manufacturing,Matriculated,1
+STU-10533,Waco,Welding Labs,Applied,1
+STU-10534,Waco,Welding Labs,Admitted,1
+STU-10535,Williamson County,Diesel Equipment,Matriculated,1
+STU-10536,North Texas,Automation & Advanced Manufacturing,Admitted,1
+STU-10537,North Texas,Welding Labs,Admitted,1
+STU-10538,Williamson County,Diesel Equipment,Applied,0
+STU-10539,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10540,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10541,Williamson County,Diesel Equipment,Applied,1
+STU-10542,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10543,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10544,North Texas,Welding Labs,Matriculated,0
+STU-10545,Williamson County,Welding Labs,Admitted,0
+STU-10546,Waco,Welding Labs,Admitted,0
+STU-10547,North Texas,Diesel Equipment,Applied,0
+STU-10548,Waco,Cybersecurity,Matriculated,0
+STU-10549,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10550,North Texas,Diesel Equipment,Applied,1
+STU-10551,Waco,Cybersecurity,Admitted,1
+STU-10552,Williamson County,Cybersecurity,Matriculated,1
+STU-10553,Williamson County,Diesel Equipment,Admitted,0
+STU-10554,Williamson County,Cybersecurity,Admitted,0
+STU-10555,Williamson County,Welding Labs,Applied,1
+STU-10556,Williamson County,Diesel Equipment,Matriculated,0
+STU-10557,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10558,Williamson County,Welding Labs,Applied,0
+STU-10559,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10560,North Texas,Cybersecurity,Matriculated,0
+STU-10561,North Texas,Welding Labs,Applied,0
+STU-10562,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10563,Williamson County,Diesel Equipment,Applied,0
+STU-10564,North Texas,Cybersecurity,Matriculated,0
+STU-10565,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10566,North Texas,Cybersecurity,Admitted,0
+STU-10567,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10568,Waco,Diesel Equipment,Applied,1
+STU-10569,Williamson County,Welding Labs,Admitted,1
+STU-10570,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10571,Williamson County,Cybersecurity,Admitted,0
+STU-10572,North Texas,Diesel Equipment,Matriculated,1
+STU-10573,Williamson County,Welding Labs,Admitted,0
+STU-10574,North Texas,Cybersecurity,Matriculated,0
+STU-10575,North Texas,Diesel Equipment,Matriculated,1
+STU-10576,North Texas,Cybersecurity,Admitted,1
+STU-10577,Williamson County,Diesel Equipment,Matriculated,0
+STU-10578,North Texas,Welding Labs,Admitted,1
+STU-10579,Williamson County,Welding Labs,Matriculated,0
+STU-10580,Waco,Cybersecurity,Admitted,1
+STU-10581,Waco,Diesel Equipment,Matriculated,1
+STU-10582,North Texas,Automation & Advanced Manufacturing,Applied,1
+STU-10583,Williamson County,Welding Labs,Admitted,0
+STU-10584,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10585,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10586,Williamson County,Cybersecurity,Matriculated,0
+STU-10587,Waco,Cybersecurity,Applied,1
+STU-10588,Williamson County,Cybersecurity,Matriculated,0
+STU-10589,Williamson County,Diesel Equipment,Matriculated,0
+STU-10590,North Texas,Welding Labs,Admitted,0
+STU-10591,North Texas,Welding Labs,Matriculated,0
+STU-10592,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10593,Waco,Cybersecurity,Applied,0
+STU-10594,North Texas,Diesel Equipment,Matriculated,0
+STU-10595,North Texas,Welding Labs,Applied,1
+STU-10596,Waco,Diesel Equipment,Admitted,0
+STU-10597,North Texas,Cybersecurity,Applied,0
+STU-10598,Williamson County,Cybersecurity,Applied,0
+STU-10599,Williamson County,Welding Labs,Admitted,0
+STU-10600,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10601,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10602,North Texas,Cybersecurity,Admitted,0
+STU-10603,North Texas,Cybersecurity,Matriculated,0
+STU-10604,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10605,Williamson County,Cybersecurity,Matriculated,0
+STU-10606,Waco,Welding Labs,Admitted,0
+STU-10607,Williamson County,Welding Labs,Admitted,0
+STU-10608,North Texas,Diesel Equipment,Matriculated,0
+STU-10609,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10610,Waco,Cybersecurity,Matriculated,0
+STU-10611,Williamson County,Diesel Equipment,Admitted,0
+STU-10612,Waco,Welding Labs,Admitted,1
+STU-10613,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10614,Williamson County,Welding Labs,Admitted,0
+STU-10615,Williamson County,Cybersecurity,Matriculated,1
+STU-10616,Williamson County,Diesel Equipment,Matriculated,1
+STU-10617,Williamson County,Cybersecurity,Matriculated,0
+STU-10618,North Texas,Cybersecurity,Matriculated,0
+STU-10619,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10620,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10621,Williamson County,Cybersecurity,Applied,0
+STU-10622,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10623,Waco,Diesel Equipment,Admitted,0
+STU-10624,Waco,Diesel Equipment,Applied,1
+STU-10625,Waco,Cybersecurity,Applied,1
+STU-10626,Waco,Diesel Equipment,Admitted,0
+STU-10627,Waco,Cybersecurity,Admitted,1
+STU-10628,Waco,Diesel Equipment,Matriculated,0
+STU-10629,North Texas,Welding Labs,Applied,0
+STU-10630,Williamson County,Cybersecurity,Admitted,0
+STU-10631,Waco,Diesel Equipment,Applied,0
+STU-10632,North Texas,Welding Labs,Admitted,1
+STU-10633,North Texas,Cybersecurity,Applied,0
+STU-10634,Williamson County,Diesel Equipment,Applied,0
+STU-10635,Williamson County,Diesel Equipment,Admitted,0
+STU-10636,Waco,Welding Labs,Matriculated,1
+STU-10637,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10638,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10639,North Texas,Welding Labs,Admitted,0
+STU-10640,North Texas,Welding Labs,Admitted,0
+STU-10641,North Texas,Cybersecurity,Matriculated,0
+STU-10642,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10643,Waco,Cybersecurity,Admitted,0
+STU-10644,Williamson County,Diesel Equipment,Matriculated,0
+STU-10645,Williamson County,Welding Labs,Admitted,0
+STU-10646,Waco,Cybersecurity,Admitted,1
+STU-10647,Waco,Welding Labs,Applied,1
+STU-10648,North Texas,Cybersecurity,Applied,0
+STU-10649,Waco,Diesel Equipment,Matriculated,1
+STU-10650,Waco,Diesel Equipment,Applied,1
+STU-10651,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10652,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10653,North Texas,Diesel Equipment,Applied,0
+STU-10654,Waco,Cybersecurity,Admitted,1
+STU-10655,Williamson County,Welding Labs,Applied,0
+STU-10656,Waco,Diesel Equipment,Matriculated,1
+STU-10657,Waco,Diesel Equipment,Admitted,1
+STU-10658,North Texas,Cybersecurity,Applied,0
+STU-10659,Waco,Diesel Equipment,Admitted,0
+STU-10660,North Texas,Diesel Equipment,Matriculated,0
+STU-10661,Williamson County,Cybersecurity,Matriculated,0
+STU-10662,Williamson County,Diesel Equipment,Admitted,1
+STU-10663,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10664,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10665,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10666,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10667,Williamson County,Diesel Equipment,Applied,0
+STU-10668,Williamson County,Welding Labs,Admitted,0
+STU-10669,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10670,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10671,Williamson County,Diesel Equipment,Matriculated,0
+STU-10672,North Texas,Diesel Equipment,Applied,1
+STU-10673,Waco,Cybersecurity,Matriculated,0
+STU-10674,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10675,North Texas,Cybersecurity,Matriculated,0
+STU-10676,North Texas,Automation & Advanced Manufacturing,Applied,1
+STU-10677,North Texas,Welding Labs,Admitted,0
+STU-10678,Waco,Diesel Equipment,Applied,0
+STU-10679,Williamson County,Diesel Equipment,Matriculated,1
+STU-10680,North Texas,Cybersecurity,Matriculated,1
+STU-10681,Williamson County,Cybersecurity,Applied,1
+STU-10682,North Texas,Diesel Equipment,Admitted,0
+STU-10683,Williamson County,Diesel Equipment,Applied,0
+STU-10684,Waco,Diesel Equipment,Admitted,1
+STU-10685,North Texas,Automation & Advanced Manufacturing,Admitted,1
+STU-10686,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10687,Waco,Welding Labs,Applied,0
+STU-10688,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10689,North Texas,Diesel Equipment,Applied,1
+STU-10690,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10691,North Texas,Cybersecurity,Applied,0
+STU-10692,North Texas,Diesel Equipment,Matriculated,0
+STU-10693,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10694,Williamson County,Diesel Equipment,Matriculated,0
+STU-10695,Waco,Cybersecurity,Admitted,1
+STU-10696,Waco,Cybersecurity,Matriculated,0
+STU-10697,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10698,Waco,Diesel Equipment,Matriculated,1
+STU-10699,North Texas,Welding Labs,Admitted,0
+STU-10700,Williamson County,Cybersecurity,Applied,0
+STU-10701,Waco,Welding Labs,Matriculated,1
+STU-10702,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10703,Waco,Cybersecurity,Applied,0
+STU-10704,Waco,Welding Labs,Applied,1
+STU-10705,North Texas,Cybersecurity,Applied,0
+STU-10706,North Texas,Welding Labs,Matriculated,1
+STU-10707,North Texas,Diesel Equipment,Admitted,0
+STU-10708,Williamson County,Diesel Equipment,Matriculated,1
+STU-10709,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10710,North Texas,Cybersecurity,Matriculated,0
+STU-10711,Waco,Welding Labs,Matriculated,1
+STU-10712,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10713,North Texas,Diesel Equipment,Admitted,0
+STU-10714,North Texas,Diesel Equipment,Matriculated,0
+STU-10715,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10716,Williamson County,Cybersecurity,Admitted,1
+STU-10717,Waco,Welding Labs,Matriculated,1
+STU-10718,Williamson County,Diesel Equipment,Admitted,1
+STU-10719,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10720,North Texas,Diesel Equipment,Matriculated,0
+STU-10721,Waco,Diesel Equipment,Applied,1
+STU-10722,North Texas,Welding Labs,Applied,0
+STU-10723,North Texas,Cybersecurity,Admitted,0
+STU-10724,North Texas,Cybersecurity,Applied,0
+STU-10725,North Texas,Welding Labs,Admitted,0
+STU-10726,Williamson County,Automation & Advanced Manufacturing,Matriculated,1
+STU-10727,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10728,Williamson County,Cybersecurity,Matriculated,1
+STU-10729,Williamson County,Diesel Equipment,Applied,0
+STU-10730,Williamson County,Diesel Equipment,Applied,0
+STU-10731,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10732,North Texas,Welding Labs,Matriculated,1
+STU-10733,Waco,Diesel Equipment,Admitted,1
+STU-10734,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10735,North Texas,Welding Labs,Matriculated,0
+STU-10736,North Texas,Cybersecurity,Admitted,1
+STU-10737,Waco,Welding Labs,Admitted,1
+STU-10738,North Texas,Cybersecurity,Applied,1
+STU-10739,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10740,Williamson County,Welding Labs,Matriculated,0
+STU-10741,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10742,North Texas,Cybersecurity,Matriculated,0
+STU-10743,Williamson County,Diesel Equipment,Admitted,0
+STU-10744,Waco,Diesel Equipment,Admitted,0
+STU-10745,North Texas,Cybersecurity,Admitted,0
+STU-10746,Waco,Diesel Equipment,Applied,1
+STU-10747,Williamson County,Diesel Equipment,Matriculated,0
+STU-10748,Williamson County,Welding Labs,Applied,0
+STU-10749,Waco,Welding Labs,Admitted,1
+STU-10750,North Texas,Diesel Equipment,Matriculated,0
+STU-10751,Williamson County,Welding Labs,Matriculated,0
+STU-10752,Williamson County,Cybersecurity,Admitted,1
+STU-10753,Williamson County,Welding Labs,Matriculated,0
+STU-10754,Waco,Welding Labs,Admitted,1
+STU-10755,Waco,Welding Labs,Admitted,0
+STU-10756,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-10757,North Texas,Cybersecurity,Admitted,0
+STU-10758,Waco,Diesel Equipment,Matriculated,1
+STU-10759,North Texas,Diesel Equipment,Applied,1
+STU-10760,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10761,Waco,Welding Labs,Applied,1
+STU-10762,North Texas,Cybersecurity,Matriculated,0
+STU-10763,North Texas,Cybersecurity,Admitted,0
+STU-10764,North Texas,Diesel Equipment,Matriculated,0
+STU-10765,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10766,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10767,North Texas,Automation & Advanced Manufacturing,Admitted,1
+STU-10768,North Texas,Automation & Advanced Manufacturing,Applied,1
+STU-10769,North Texas,Cybersecurity,Matriculated,0
+STU-10770,North Texas,Welding Labs,Admitted,1
+STU-10771,North Texas,Diesel Equipment,Applied,0
+STU-10772,North Texas,Cybersecurity,Admitted,1
+STU-10773,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10774,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10775,Waco,Diesel Equipment,Admitted,1
+STU-10776,Williamson County,Welding Labs,Admitted,0
+STU-10777,Williamson County,Welding Labs,Admitted,0
+STU-10778,Waco,Welding Labs,Admitted,0
+STU-10779,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10780,Waco,Cybersecurity,Matriculated,1
+STU-10781,Williamson County,Cybersecurity,Applied,0
+STU-10782,Waco,Welding Labs,Matriculated,1
+STU-10783,Williamson County,Diesel Equipment,Admitted,0
+STU-10784,Waco,Welding Labs,Admitted,1
+STU-10785,Waco,Welding Labs,Matriculated,1
+STU-10786,Waco,Diesel Equipment,Applied,1
+STU-10787,Waco,Welding Labs,Applied,1
+STU-10788,Waco,Diesel Equipment,Applied,1
+STU-10789,Williamson County,Diesel Equipment,Matriculated,0
+STU-10790,Waco,Cybersecurity,Admitted,1
+STU-10791,Waco,Diesel Equipment,Applied,0
+STU-10792,Waco,Welding Labs,Applied,1
+STU-10793,North Texas,Diesel Equipment,Applied,0
+STU-10794,Williamson County,Welding Labs,Admitted,0
+STU-10795,Waco,Diesel Equipment,Admitted,1
+STU-10796,Williamson County,Cybersecurity,Applied,1
+STU-10797,Waco,Welding Labs,Admitted,1
+STU-10798,North Texas,Welding Labs,Applied,0
+STU-10799,Williamson County,Welding Labs,Matriculated,0
+STU-10800,North Texas,Diesel Equipment,Applied,1
+STU-10801,North Texas,Cybersecurity,Matriculated,0
+STU-10802,Waco,Cybersecurity,Admitted,1
+STU-10803,Williamson County,Cybersecurity,Applied,0
+STU-10804,Williamson County,Cybersecurity,Admitted,0
+STU-10805,Williamson County,Diesel Equipment,Applied,0
+STU-10806,Williamson County,Welding Labs,Matriculated,0
+STU-10807,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10808,Waco,Cybersecurity,Admitted,1
+STU-10809,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10810,Waco,Diesel Equipment,Admitted,0
+STU-10811,Williamson County,Diesel Equipment,Matriculated,1
+STU-10812,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10813,North Texas,Welding Labs,Applied,0
+STU-10814,Williamson County,Automation & Advanced Manufacturing,Applied,1
+STU-10815,Williamson County,Diesel Equipment,Admitted,1
+STU-10816,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10817,North Texas,Cybersecurity,Admitted,0
+STU-10818,Williamson County,Cybersecurity,Matriculated,0
+STU-10819,Waco,Welding Labs,Matriculated,0
+STU-10820,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-10821,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-10822,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10823,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10824,Waco,Welding Labs,Matriculated,0
+STU-10825,Waco,Diesel Equipment,Applied,0
+STU-10826,Williamson County,Welding Labs,Applied,1
+STU-10827,North Texas,Diesel Equipment,Applied,0
+STU-10828,Williamson County,Diesel Equipment,Admitted,0
+STU-10829,Williamson County,Diesel Equipment,Applied,0
+STU-10830,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-10831,Williamson County,Welding Labs,Matriculated,0
+STU-10832,Waco,Diesel Equipment,Applied,0
+STU-10833,North Texas,Cybersecurity,Matriculated,0
+STU-10834,Williamson County,Diesel Equipment,Matriculated,0
+STU-10835,North Texas,Welding Labs,Admitted,0
+STU-10836,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10837,North Texas,Cybersecurity,Applied,1
+STU-10838,Waco,Diesel Equipment,Matriculated,1
+STU-10839,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10840,Williamson County,Welding Labs,Applied,0
+STU-10841,North Texas,Welding Labs,Admitted,0
+STU-10842,Waco,Cybersecurity,Matriculated,0
+STU-10843,North Texas,Cybersecurity,Applied,0
+STU-10844,North Texas,Diesel Equipment,Admitted,1
+STU-10845,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-10846,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10847,North Texas,Welding Labs,Admitted,0
+STU-10848,Williamson County,Welding Labs,Applied,1
+STU-10849,North Texas,Diesel Equipment,Matriculated,0
+STU-10850,Williamson County,Diesel Equipment,Applied,0
+STU-10851,Waco,Welding Labs,Applied,0
+STU-10852,North Texas,Welding Labs,Admitted,0
+STU-10853,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-10854,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-10855,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10856,Williamson County,Diesel Equipment,Admitted,0
+STU-10857,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10858,Williamson County,Cybersecurity,Matriculated,0
+STU-10859,Williamson County,Cybersecurity,Matriculated,0
+STU-10860,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10861,North Texas,Automation & Advanced Manufacturing,Applied,1
+STU-10862,North Texas,Welding Labs,Matriculated,0
+STU-10863,Williamson County,Welding Labs,Matriculated,0
+STU-10864,Williamson County,Diesel Equipment,Applied,0
+STU-10865,North Texas,Cybersecurity,Matriculated,0
+STU-10866,North Texas,Cybersecurity,Matriculated,0
+STU-10867,Waco,Diesel Equipment,Applied,1
+STU-10868,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10869,North Texas,Automation & Advanced Manufacturing,Admitted,1
+STU-10870,North Texas,Diesel Equipment,Matriculated,1
+STU-10871,Waco,Cybersecurity,Applied,1
+STU-10872,North Texas,Cybersecurity,Matriculated,0
+STU-10873,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10874,Williamson County,Welding Labs,Applied,0
+STU-10875,Williamson County,Diesel Equipment,Admitted,0
+STU-10876,North Texas,Diesel Equipment,Matriculated,0
+STU-10877,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-10878,Waco,Diesel Equipment,Admitted,1
+STU-10879,North Texas,Cybersecurity,Applied,0
+STU-10880,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10881,Waco,Cybersecurity,Applied,0
+STU-10882,North Texas,Welding Labs,Applied,0
+STU-10883,Waco,Diesel Equipment,Applied,1
+STU-10884,North Texas,Diesel Equipment,Matriculated,0
+STU-10885,North Texas,Cybersecurity,Matriculated,1
+STU-10886,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10887,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10888,Williamson County,Diesel Equipment,Admitted,0
+STU-10889,Williamson County,Cybersecurity,Admitted,0
+STU-10890,North Texas,Welding Labs,Applied,0
+STU-10891,Williamson County,Cybersecurity,Applied,0
+STU-10892,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10893,Williamson County,Diesel Equipment,Matriculated,1
+STU-10894,Waco,Diesel Equipment,Applied,1
+STU-10895,Waco,Diesel Equipment,Applied,0
+STU-10896,Waco,Welding Labs,Matriculated,0
+STU-10897,Williamson County,Welding Labs,Matriculated,0
+STU-10898,North Texas,Automation & Advanced Manufacturing,Matriculated,1
+STU-10899,North Texas,Cybersecurity,Matriculated,0
+STU-10900,Williamson County,Cybersecurity,Matriculated,0
+STU-10901,Waco,Cybersecurity,Admitted,0
+STU-10902,Williamson County,Welding Labs,Matriculated,0
+STU-10903,North Texas,Diesel Equipment,Applied,0
+STU-10904,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10905,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10906,North Texas,Welding Labs,Applied,1
+STU-10907,North Texas,Welding Labs,Matriculated,1
+STU-10908,Waco,Diesel Equipment,Matriculated,0
+STU-10909,Waco,Diesel Equipment,Matriculated,1
+STU-10910,North Texas,Welding Labs,Applied,0
+STU-10911,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10912,North Texas,Diesel Equipment,Admitted,0
+STU-10913,Williamson County,Diesel Equipment,Admitted,0
+STU-10914,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10915,North Texas,Diesel Equipment,Applied,0
+STU-10916,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10917,Williamson County,Cybersecurity,Admitted,0
+STU-10918,North Texas,Diesel Equipment,Admitted,1
+STU-10919,North Texas,Diesel Equipment,Applied,1
+STU-10920,Williamson County,Cybersecurity,Applied,0
+STU-10921,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-10922,North Texas,Diesel Equipment,Matriculated,0
+STU-10923,North Texas,Cybersecurity,Matriculated,1
+STU-10924,Williamson County,Automation & Advanced Manufacturing,Applied,1
+STU-10925,Williamson County,Diesel Equipment,Matriculated,0
+STU-10926,North Texas,Welding Labs,Applied,0
+STU-10927,North Texas,Cybersecurity,Admitted,0
+STU-10928,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-10929,North Texas,Welding Labs,Applied,0
+STU-10930,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10931,North Texas,Welding Labs,Matriculated,0
+STU-10932,North Texas,Welding Labs,Admitted,1
+STU-10933,Waco,Cybersecurity,Admitted,1
+STU-10934,Waco,Cybersecurity,Matriculated,1
+STU-10935,Williamson County,Welding Labs,Matriculated,0
+STU-10936,Waco,Cybersecurity,Applied,1
+STU-10937,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-10938,Waco,Diesel Equipment,Applied,1
+STU-10939,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10940,Williamson County,Welding Labs,Matriculated,0
+STU-10941,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-10942,Waco,Welding Labs,Applied,0
+STU-10943,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-10944,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-10945,Williamson County,Cybersecurity,Applied,0
+STU-10946,North Texas,Welding Labs,Applied,0
+STU-10947,North Texas,Welding Labs,Admitted,0
+STU-10948,Williamson County,Diesel Equipment,Matriculated,1
+STU-10949,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-10950,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-10951,Williamson County,Diesel Equipment,Matriculated,0
+STU-10952,North Texas,Welding Labs,Matriculated,0
+STU-10953,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-10954,Waco,Diesel Equipment,Admitted,1
+STU-10955,North Texas,Diesel Equipment,Matriculated,0
+STU-10956,Waco,Diesel Equipment,Admitted,0
+STU-10957,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10958,Waco,Welding Labs,Matriculated,1
+STU-10959,North Texas,Welding Labs,Matriculated,0
+STU-10960,Waco,Diesel Equipment,Matriculated,0
+STU-10961,Williamson County,Diesel Equipment,Matriculated,0
+STU-10962,Williamson County,Welding Labs,Applied,0
+STU-10963,Waco,Diesel Equipment,Admitted,1
+STU-10964,North Texas,Diesel Equipment,Applied,0
+STU-10965,Waco,Welding Labs,Admitted,0
+STU-10966,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-10967,Williamson County,Diesel Equipment,Matriculated,0
+STU-10968,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10969,Williamson County,Diesel Equipment,Applied,0
+STU-10970,Waco,Diesel Equipment,Matriculated,1
+STU-10971,Williamson County,Diesel Equipment,Admitted,0
+STU-10972,North Texas,Cybersecurity,Admitted,1
+STU-10973,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10974,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-10975,Williamson County,Diesel Equipment,Matriculated,0
+STU-10976,North Texas,Welding Labs,Matriculated,0
+STU-10977,North Texas,Diesel Equipment,Matriculated,0
+STU-10978,North Texas,Cybersecurity,Applied,0
+STU-10979,North Texas,Diesel Equipment,Admitted,0
+STU-10980,North Texas,Cybersecurity,Matriculated,0
+STU-10981,Waco,Diesel Equipment,Admitted,0
+STU-10982,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-10983,North Texas,Diesel Equipment,Applied,0
+STU-10984,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-10985,Waco,Welding Labs,Applied,1
+STU-10986,Waco,Welding Labs,Applied,0
+STU-10987,North Texas,Diesel Equipment,Admitted,0
+STU-10988,North Texas,Diesel Equipment,Applied,0
+STU-10989,Waco,Welding Labs,Admitted,1
+STU-10990,Williamson County,Cybersecurity,Matriculated,1
+STU-10991,Williamson County,Welding Labs,Matriculated,1
+STU-10992,Williamson County,Welding Labs,Applied,0
+STU-10993,Waco,Cybersecurity,Admitted,1
+STU-10994,Waco,Welding Labs,Matriculated,0
+STU-10995,Waco,Welding Labs,Matriculated,1
+STU-10996,Williamson County,Cybersecurity,Matriculated,0
+STU-10997,North Texas,Cybersecurity,Matriculated,1
+STU-10998,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-10999,Waco,Diesel Equipment,Applied,0
+STU-11000,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-11001,Williamson County,Cybersecurity,Matriculated,0
+STU-11002,North Texas,Welding Labs,Applied,0
+STU-11003,Williamson County,Cybersecurity,Matriculated,1
+STU-11004,Williamson County,Welding Labs,Applied,0
+STU-11005,Williamson County,Automation & Advanced Manufacturing,Applied,1
+STU-11006,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-11007,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-11008,North Texas,Welding Labs,Matriculated,1
+STU-11009,North Texas,Diesel Equipment,Matriculated,0
+STU-11010,North Texas,Diesel Equipment,Matriculated,0
+STU-11011,North Texas,Diesel Equipment,Admitted,0
+STU-11012,Williamson County,Cybersecurity,Applied,1
+STU-11013,North Texas,Cybersecurity,Admitted,1
+STU-11014,North Texas,Welding Labs,Applied,0
+STU-11015,Williamson County,Cybersecurity,Matriculated,0
+STU-11016,Williamson County,Welding Labs,Admitted,1
+STU-11017,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-11018,Williamson County,Welding Labs,Applied,0
+STU-11019,Williamson County,Cybersecurity,Applied,1
+STU-11020,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-11021,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-11022,Williamson County,Welding Labs,Admitted,0
+STU-11023,Waco,Diesel Equipment,Matriculated,1
+STU-11024,North Texas,Cybersecurity,Applied,1
+STU-11025,Williamson County,Cybersecurity,Admitted,1
+STU-11026,Waco,Diesel Equipment,Matriculated,0
+STU-11027,Waco,Cybersecurity,Matriculated,1
+STU-11028,Waco,Diesel Equipment,Matriculated,1
+STU-11029,Waco,Diesel Equipment,Applied,1
+STU-11030,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-11031,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-11032,Waco,Welding Labs,Matriculated,0
+STU-11033,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-11034,North Texas,Diesel Equipment,Applied,0
+STU-11035,North Texas,Welding Labs,Admitted,0
+STU-11036,Williamson County,Cybersecurity,Matriculated,0
+STU-11037,Williamson County,Diesel Equipment,Applied,0
+STU-11038,North Texas,Welding Labs,Admitted,0
+STU-11039,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-11040,Waco,Diesel Equipment,Admitted,1
+STU-11041,Waco,Welding Labs,Applied,1
+STU-11042,North Texas,Cybersecurity,Matriculated,1
+STU-11043,Williamson County,Diesel Equipment,Matriculated,0
+STU-11044,North Texas,Diesel Equipment,Matriculated,0
+STU-11045,Williamson County,Welding Labs,Applied,1
+STU-11046,North Texas,Welding Labs,Applied,0
+STU-11047,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-11048,Williamson County,Automation & Advanced Manufacturing,Matriculated,0
+STU-11049,Waco,Diesel Equipment,Applied,1
+STU-11050,North Texas,Cybersecurity,Applied,0
+STU-11051,Williamson County,Automation & Advanced Manufacturing,Applied,1
+STU-11052,Williamson County,Cybersecurity,Applied,0
+STU-11053,Williamson County,Welding Labs,Applied,1
+STU-11054,Waco,Welding Labs,Admitted,0
+STU-11055,North Texas,Automation & Advanced Manufacturing,Admitted,1
+STU-11056,Waco,Diesel Equipment,Admitted,0
+STU-11057,Williamson County,Welding Labs,Applied,1
+STU-11058,Waco,Cybersecurity,Applied,1
+STU-11059,Williamson County,Diesel Equipment,Applied,0
+STU-11060,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-11061,North Texas,Welding Labs,Matriculated,1
+STU-11062,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-11063,Waco,Diesel Equipment,Matriculated,1
+STU-11064,Waco,Diesel Equipment,Admitted,0
+STU-11065,Waco,Diesel Equipment,Applied,0
+STU-11066,North Texas,Cybersecurity,Admitted,0
+STU-11067,Williamson County,Diesel Equipment,Applied,0
+STU-11068,Williamson County,Diesel Equipment,Admitted,0
+STU-11069,Williamson County,Welding Labs,Matriculated,0
+STU-11070,North Texas,Cybersecurity,Admitted,0
+STU-11071,North Texas,Cybersecurity,Admitted,0
+STU-11072,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-11073,North Texas,Diesel Equipment,Matriculated,0
+STU-11074,Williamson County,Welding Labs,Admitted,0
+STU-11075,North Texas,Automation & Advanced Manufacturing,Applied,1
+STU-11076,Williamson County,Diesel Equipment,Matriculated,0
+STU-11077,North Texas,Cybersecurity,Matriculated,0
+STU-11078,North Texas,Diesel Equipment,Applied,0
+STU-11079,Williamson County,Diesel Equipment,Applied,0
+STU-11080,Williamson County,Welding Labs,Applied,1
+STU-11081,North Texas,Welding Labs,Matriculated,1
+STU-11082,North Texas,Welding Labs,Applied,0
+STU-11083,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-11084,Williamson County,Welding Labs,Applied,1
+STU-11085,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-11086,North Texas,Diesel Equipment,Admitted,0
+STU-11087,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-11088,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-11089,Williamson County,Welding Labs,Applied,1
+STU-11090,North Texas,Welding Labs,Matriculated,0
+STU-11091,Waco,Cybersecurity,Admitted,1
+STU-11092,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-11093,Waco,Diesel Equipment,Admitted,0
+STU-11094,Williamson County,Cybersecurity,Applied,0
+STU-11095,Williamson County,Cybersecurity,Admitted,0
+STU-11096,Williamson County,Cybersecurity,Matriculated,0
+STU-11097,Waco,Welding Labs,Admitted,1
+STU-11098,Williamson County,Welding Labs,Matriculated,0
+STU-11099,North Texas,Welding Labs,Matriculated,1
+STU-11100,Williamson County,Diesel Equipment,Applied,0
+STU-11101,Waco,Automation & Advanced Manufacturing,Admitted,1
+STU-11102,Waco,Cybersecurity,Admitted,1
+STU-11103,North Texas,Welding Labs,Matriculated,1
+STU-11104,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-11105,Williamson County,Cybersecurity,Applied,1
+STU-11106,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-11107,North Texas,Cybersecurity,Matriculated,0
+STU-11108,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-11109,Williamson County,Welding Labs,Applied,0
+STU-11110,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-11111,Williamson County,Automation & Advanced Manufacturing,Admitted,1
+STU-11112,North Texas,Cybersecurity,Applied,0
+STU-11113,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-11114,North Texas,Diesel Equipment,Matriculated,0
+STU-11115,North Texas,Cybersecurity,Admitted,0
+STU-11116,North Texas,Automation & Advanced Manufacturing,Matriculated,0
+STU-11117,North Texas,Diesel Equipment,Matriculated,0
+STU-11118,North Texas,Cybersecurity,Applied,1
+STU-11119,Williamson County,Welding Labs,Admitted,0
+STU-11120,Waco,Cybersecurity,Applied,1
+STU-11121,Waco,Cybersecurity,Matriculated,0
+STU-11122,North Texas,Automation & Advanced Manufacturing,Admitted,1
+STU-11123,North Texas,Diesel Equipment,Matriculated,1
+STU-11124,Williamson County,Cybersecurity,Matriculated,1
+STU-11125,North Texas,Cybersecurity,Admitted,0
+STU-11126,North Texas,Cybersecurity,Applied,0
+STU-11127,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-11128,North Texas,Cybersecurity,Matriculated,0
+STU-11129,Williamson County,Diesel Equipment,Applied,0
+STU-11130,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-11131,North Texas,Welding Labs,Admitted,0
+STU-11132,Waco,Welding Labs,Applied,0
+STU-11133,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-11134,North Texas,Diesel Equipment,Matriculated,0
+STU-11135,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-11136,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-11137,North Texas,Automation & Advanced Manufacturing,Applied,1
+STU-11138,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-11139,Waco,Cybersecurity,Matriculated,1
+STU-11140,Williamson County,Welding Labs,Admitted,0
+STU-11141,Williamson County,Diesel Equipment,Matriculated,1
+STU-11142,North Texas,Cybersecurity,Admitted,0
+STU-11143,North Texas,Welding Labs,Admitted,0
+STU-11144,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-11145,Waco,Welding Labs,Applied,0
+STU-11146,Williamson County,Welding Labs,Matriculated,1
+STU-11147,North Texas,Cybersecurity,Applied,1
+STU-11148,Williamson County,Cybersecurity,Matriculated,0
+STU-11149,North Texas,Diesel Equipment,Applied,1
+STU-11150,Williamson County,Automation & Advanced Manufacturing,Matriculated,1
+STU-11151,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-11152,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-11153,Waco,Welding Labs,Matriculated,1
+STU-11154,North Texas,Welding Labs,Matriculated,0
+STU-11155,Williamson County,Automation & Advanced Manufacturing,Applied,0
+STU-11156,Waco,Diesel Equipment,Admitted,1
+STU-11157,North Texas,Welding Labs,Matriculated,0
+STU-11158,North Texas,Diesel Equipment,Applied,1
+STU-11159,Williamson County,Welding Labs,Applied,1
+STU-11160,North Texas,Cybersecurity,Admitted,0
+STU-11161,Waco,Cybersecurity,Admitted,1
+STU-11162,Waco,Automation & Advanced Manufacturing,Admitted,0
+STU-11163,Williamson County,Cybersecurity,Admitted,0
+STU-11164,Williamson County,Welding Labs,Matriculated,0
+STU-11165,Waco,Welding Labs,Matriculated,1
+STU-11166,Williamson County,Cybersecurity,Admitted,1
+STU-11167,Waco,Cybersecurity,Admitted,1
+STU-11168,North Texas,Cybersecurity,Admitted,0
+STU-11169,Williamson County,Automation & Advanced Manufacturing,Admitted,0
+STU-11170,Waco,Cybersecurity,Applied,1
+STU-11171,Williamson County,Welding Labs,Applied,0
+STU-11172,North Texas,Cybersecurity,Applied,1
+STU-11173,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-11174,Waco,Automation & Advanced Manufacturing,Matriculated,1
+STU-11175,Waco,Welding Labs,Applied,1
+STU-11176,North Texas,Welding Labs,Applied,0
+STU-11177,Waco,Cybersecurity,Applied,0
+STU-11178,Williamson County,Welding Labs,Applied,0
+STU-11179,Waco,Diesel Equipment,Admitted,0
+STU-11180,North Texas,Welding Labs,Admitted,0
+STU-11181,Williamson County,Diesel Equipment,Admitted,1
+STU-11182,North Texas,Diesel Equipment,Admitted,0
+STU-11183,Williamson County,Welding Labs,Applied,0
+STU-11184,Williamson County,Diesel Equipment,Matriculated,1
+STU-11185,North Texas,Welding Labs,Admitted,0
+STU-11186,North Texas,Welding Labs,Applied,1
+STU-11187,North Texas,Automation & Advanced Manufacturing,Admitted,0
+STU-11188,North Texas,Diesel Equipment,Admitted,0
+STU-11189,Waco,Diesel Equipment,Admitted,1
+STU-11190,North Texas,Cybersecurity,Admitted,0
+STU-11191,Williamson County,Welding Labs,Applied,0
+STU-11192,Waco,Automation & Advanced Manufacturing,Applied,1
+STU-11193,North Texas,Automation & Advanced Manufacturing,Applied,0
+STU-11194,Waco,Cybersecurity,Matriculated,0
+STU-11195,Williamson County,Diesel Equipment,Admitted,0
+STU-11196,Williamson County,Automation & Advanced Manufacturing,Matriculated,1
+STU-11197,Williamson County,Diesel Equipment,Matriculated,1
+STU-11198,Waco,Automation & Advanced Manufacturing,Matriculated,0
+STU-11199,Waco,Automation & Advanced Manufacturing,Applied,0
+STU-11200,North Texas,Welding Labs,Applied,0

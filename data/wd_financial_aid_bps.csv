@@ -1,0 +1,1201 @@
+event_instance_id,student_id,bp_step_status,assigned_security_group,elapsed_time_hours,isir_verification_required
+EVT-976530,STU-10001,Awaiting Action,Financial_Aid_Partner,146.69,1
+EVT-998182,STU-10002,Awaiting Action,Financial_Aid_Partner,163.46,1
+EVT-443716,STU-10003,Awaiting Action,Financial_Aid_Partner,151.62,0
+EVT-255528,STU-10004,Approved,Enrollment_Coach,56.02,1
+EVT-195643,STU-10005,Awaiting Action,Financial_Aid_Partner,54.53,1
+EVT-845702,STU-10006,Exception,Enrollment_Coach,32.01,0
+EVT-360276,STU-10007,Exception,Central_IT_Architect,1.89,0
+EVT-473023,STU-10008,Approved,Enrollment_Coach,34.8,0
+EVT-515492,STU-10009,Approved,Enrollment_Coach,36.05,1
+EVT-638401,STU-10010,Awaiting Action,Enrollment_Coach,36.18,1
+EVT-151328,STU-10011,Awaiting Action,Financial_Aid_Partner,92.04,0
+EVT-810078,STU-10012,Approved,Financial_Aid_Partner,52.76,1
+EVT-413357,STU-10013,Exception,Financial_Aid_Partner,37.75,1
+EVT-372804,STU-10014,Exception,Central_IT_Architect,55.86,0
+EVT-959926,STU-10015,Approved,Financial_Aid_Partner,10.4,1
+EVT-282313,STU-10016,Approved,Financial_Aid_Partner,62.78,0
+EVT-132591,STU-10017,Exception,Financial_Aid_Partner,59.21,1
+EVT-524035,STU-10018,Exception,Central_IT_Architect,67.54,1
+EVT-996114,STU-10019,Exception,Enrollment_Coach,48.76,1
+EVT-574167,STU-10020,Awaiting Action,Financial_Aid_Partner,119.71,1
+EVT-682959,STU-10021,Exception,Financial_Aid_Partner,52.2,0
+EVT-884417,STU-10022,Exception,Central_IT_Architect,33.13,1
+EVT-676843,STU-10023,Approved,Enrollment_Coach,51.41,1
+EVT-361989,STU-10024,Exception,Financial_Aid_Partner,37.66,1
+EVT-199326,STU-10025,Exception,Financial_Aid_Partner,0.4,1
+EVT-584487,STU-10026,Awaiting Action,Central_IT_Architect,33.81,0
+EVT-206857,STU-10027,Awaiting Action,Enrollment_Coach,97.49,0
+EVT-942946,STU-10028,Awaiting Action,Financial_Aid_Partner,132.31,0
+EVT-932369,STU-10029,Approved,Financial_Aid_Partner,6.36,1
+EVT-246583,STU-10030,Approved,Enrollment_Coach,33.67,0
+EVT-227352,STU-10031,Awaiting Action,Central_IT_Architect,117.07,1
+EVT-112537,STU-10032,Awaiting Action,Central_IT_Architect,97.56,1
+EVT-164664,STU-10033,Exception,Financial_Aid_Partner,47.48,1
+EVT-970708,STU-10034,Exception,Financial_Aid_Partner,22.57,0
+EVT-918895,STU-10035,Exception,Enrollment_Coach,41.63,0
+EVT-333086,STU-10036,Awaiting Action,Central_IT_Architect,96.05,1
+EVT-237064,STU-10037,Exception,Central_IT_Architect,64.24,1
+EVT-307757,STU-10038,Exception,Enrollment_Coach,23.17,0
+EVT-963684,STU-10039,Awaiting Action,Financial_Aid_Partner,91.12,0
+EVT-520040,STU-10040,Exception,Financial_Aid_Partner,19.99,0
+EVT-490321,STU-10041,Awaiting Action,Enrollment_Coach,70.68,1
+EVT-819622,STU-10042,Approved,Financial_Aid_Partner,31.82,1
+EVT-760914,STU-10043,Approved,Financial_Aid_Partner,8.56,1
+EVT-776001,STU-10044,Exception,Financial_Aid_Partner,10.84,1
+EVT-188121,STU-10045,Approved,Enrollment_Coach,19.77,0
+EVT-710610,STU-10046,Approved,Central_IT_Architect,1.2,0
+EVT-714590,STU-10047,Awaiting Action,Central_IT_Architect,78.15,1
+EVT-371393,STU-10048,Awaiting Action,Central_IT_Architect,124.16,1
+EVT-952227,STU-10049,Exception,Central_IT_Architect,14.95,1
+EVT-178629,STU-10050,Awaiting Action,Enrollment_Coach,127.2,0
+EVT-122859,STU-10051,Exception,Central_IT_Architect,23.0,1
+EVT-167603,STU-10052,Exception,Enrollment_Coach,10.28,0
+EVT-307356,STU-10053,Awaiting Action,Central_IT_Architect,95.5,1
+EVT-777366,STU-10054,Exception,Financial_Aid_Partner,20.47,0
+EVT-564971,STU-10055,Approved,Enrollment_Coach,17.7,0
+EVT-948611,STU-10056,Approved,Enrollment_Coach,5.22,0
+EVT-235047,STU-10057,Approved,Financial_Aid_Partner,44.19,0
+EVT-196446,STU-10058,Awaiting Action,Enrollment_Coach,63.01,0
+EVT-988432,STU-10059,Approved,Enrollment_Coach,32.0,0
+EVT-969642,STU-10060,Exception,Central_IT_Architect,9.45,1
+EVT-948179,STU-10061,Exception,Enrollment_Coach,33.95,1
+EVT-447655,STU-10062,Exception,Enrollment_Coach,48.67,1
+EVT-228479,STU-10063,Awaiting Action,Enrollment_Coach,82.04,1
+EVT-144770,STU-10064,Approved,Enrollment_Coach,3.97,1
+EVT-583388,STU-10065,Awaiting Action,Central_IT_Architect,156.69,0
+EVT-153097,STU-10066,Exception,Enrollment_Coach,12.97,0
+EVT-276149,STU-10067,Approved,Enrollment_Coach,42.96,0
+EVT-701761,STU-10068,Approved,Enrollment_Coach,42.72,1
+EVT-554197,STU-10069,Approved,Enrollment_Coach,60.22,0
+EVT-961599,STU-10070,Awaiting Action,Central_IT_Architect,108.3,0
+EVT-859620,STU-10071,Approved,Central_IT_Architect,44.41,1
+EVT-514186,STU-10072,Awaiting Action,Central_IT_Architect,29.75,1
+EVT-620226,STU-10073,Approved,Enrollment_Coach,58.87,0
+EVT-130914,STU-10074,Exception,Financial_Aid_Partner,51.36,0
+EVT-501320,STU-10075,Awaiting Action,Financial_Aid_Partner,56.0,1
+EVT-816400,STU-10076,Approved,Central_IT_Architect,38.46,0
+EVT-547389,STU-10077,Awaiting Action,Central_IT_Architect,53.63,0
+EVT-281201,STU-10078,Approved,Central_IT_Architect,54.44,0
+EVT-471136,STU-10079,Exception,Central_IT_Architect,33.58,1
+EVT-325146,STU-10080,Exception,Central_IT_Architect,9.58,1
+EVT-296242,STU-10081,Exception,Financial_Aid_Partner,58.54,0
+EVT-388339,STU-10082,Approved,Central_IT_Architect,66.23,1
+EVT-393448,STU-10083,Awaiting Action,Financial_Aid_Partner,148.36,1
+EVT-567676,STU-10084,Awaiting Action,Financial_Aid_Partner,81.31,0
+EVT-255851,STU-10085,Exception,Enrollment_Coach,49.31,1
+EVT-136332,STU-10086,Exception,Financial_Aid_Partner,51.16,0
+EVT-743937,STU-10087,Exception,Central_IT_Architect,33.56,0
+EVT-749253,STU-10088,Approved,Central_IT_Architect,16.76,0
+EVT-746947,STU-10089,Awaiting Action,Central_IT_Architect,68.41,0
+EVT-357724,STU-10090,Approved,Enrollment_Coach,62.01,1
+EVT-778720,STU-10091,Exception,Financial_Aid_Partner,44.46,1
+EVT-409440,STU-10092,Exception,Enrollment_Coach,65.73,0
+EVT-623125,STU-10093,Approved,Central_IT_Architect,28.29,0
+EVT-532005,STU-10094,Exception,Central_IT_Architect,50.4,0
+EVT-677438,STU-10095,Awaiting Action,Central_IT_Architect,152.03,1
+EVT-602300,STU-10096,Exception,Financial_Aid_Partner,56.81,1
+EVT-163941,STU-10097,Awaiting Action,Central_IT_Architect,106.49,1
+EVT-191982,STU-10098,Exception,Central_IT_Architect,32.69,0
+EVT-393366,STU-10099,Approved,Enrollment_Coach,2.28,1
+EVT-501620,STU-10100,Exception,Financial_Aid_Partner,34.28,0
+EVT-243902,STU-10101,Exception,Financial_Aid_Partner,25.37,0
+EVT-539599,STU-10102,Approved,Enrollment_Coach,33.26,0
+EVT-309146,STU-10103,Exception,Central_IT_Architect,12.38,0
+EVT-773870,STU-10104,Approved,Financial_Aid_Partner,55.31,0
+EVT-935922,STU-10105,Approved,Central_IT_Architect,43.56,1
+EVT-651356,STU-10106,Awaiting Action,Enrollment_Coach,158.74,1
+EVT-361250,STU-10107,Exception,Central_IT_Architect,7.5,1
+EVT-761393,STU-10108,Exception,Central_IT_Architect,58.88,1
+EVT-941134,STU-10109,Exception,Financial_Aid_Partner,57.39,0
+EVT-670065,STU-10110,Awaiting Action,Financial_Aid_Partner,78.18,1
+EVT-933456,STU-10111,Exception,Enrollment_Coach,46.8,1
+EVT-120478,STU-10112,Awaiting Action,Enrollment_Coach,103.5,0
+EVT-501078,STU-10113,Awaiting Action,Enrollment_Coach,43.78,1
+EVT-919898,STU-10114,Exception,Central_IT_Architect,28.92,1
+EVT-848023,STU-10115,Exception,Central_IT_Architect,29.83,1
+EVT-476556,STU-10116,Approved,Financial_Aid_Partner,44.74,0
+EVT-602985,STU-10117,Awaiting Action,Central_IT_Architect,36.56,1
+EVT-670968,STU-10118,Awaiting Action,Financial_Aid_Partner,88.29,0
+EVT-919394,STU-10119,Awaiting Action,Central_IT_Architect,74.95,1
+EVT-608223,STU-10120,Awaiting Action,Enrollment_Coach,108.3,1
+EVT-460745,STU-10121,Awaiting Action,Financial_Aid_Partner,91.26,1
+EVT-693128,STU-10122,Approved,Enrollment_Coach,42.59,1
+EVT-626797,STU-10123,Approved,Enrollment_Coach,56.49,0
+EVT-437226,STU-10124,Awaiting Action,Enrollment_Coach,113.63,0
+EVT-507247,STU-10125,Exception,Enrollment_Coach,56.71,0
+EVT-383572,STU-10126,Exception,Central_IT_Architect,39.25,0
+EVT-288550,STU-10127,Exception,Central_IT_Architect,17.08,1
+EVT-127329,STU-10128,Exception,Enrollment_Coach,47.74,1
+EVT-434367,STU-10129,Awaiting Action,Enrollment_Coach,85.65,1
+EVT-726121,STU-10130,Exception,Enrollment_Coach,67.03,1
+EVT-329659,STU-10131,Exception,Central_IT_Architect,41.38,0
+EVT-130726,STU-10132,Awaiting Action,Central_IT_Architect,91.59,0
+EVT-950069,STU-10133,Exception,Financial_Aid_Partner,42.68,1
+EVT-916356,STU-10134,Exception,Financial_Aid_Partner,33.38,1
+EVT-394579,STU-10135,Exception,Financial_Aid_Partner,40.01,0
+EVT-161437,STU-10136,Exception,Financial_Aid_Partner,59.2,1
+EVT-947935,STU-10137,Approved,Central_IT_Architect,12.77,1
+EVT-594596,STU-10138,Approved,Financial_Aid_Partner,68.83,1
+EVT-655149,STU-10139,Approved,Enrollment_Coach,5.1,0
+EVT-474795,STU-10140,Exception,Central_IT_Architect,7.92,0
+EVT-904092,STU-10141,Exception,Enrollment_Coach,58.63,1
+EVT-712356,STU-10142,Awaiting Action,Central_IT_Architect,83.18,0
+EVT-344068,STU-10143,Exception,Central_IT_Architect,27.34,0
+EVT-267378,STU-10144,Awaiting Action,Enrollment_Coach,139.95,1
+EVT-204998,STU-10145,Exception,Enrollment_Coach,47.57,1
+EVT-359896,STU-10146,Approved,Central_IT_Architect,6.61,1
+EVT-788772,STU-10147,Exception,Financial_Aid_Partner,58.84,0
+EVT-352867,STU-10148,Exception,Central_IT_Architect,63.89,1
+EVT-379473,STU-10149,Approved,Financial_Aid_Partner,65.04,0
+EVT-659614,STU-10150,Exception,Financial_Aid_Partner,45.84,1
+EVT-955937,STU-10151,Exception,Financial_Aid_Partner,0.11,1
+EVT-929672,STU-10152,Exception,Enrollment_Coach,10.65,1
+EVT-872863,STU-10153,Exception,Financial_Aid_Partner,10.83,1
+EVT-158624,STU-10154,Awaiting Action,Financial_Aid_Partner,69.99,1
+EVT-901164,STU-10155,Exception,Financial_Aid_Partner,28.14,0
+EVT-330069,STU-10156,Approved,Central_IT_Architect,41.65,0
+EVT-703656,STU-10157,Awaiting Action,Central_IT_Architect,79.37,1
+EVT-987624,STU-10158,Exception,Financial_Aid_Partner,49.1,0
+EVT-936124,STU-10159,Awaiting Action,Enrollment_Coach,50.27,1
+EVT-507290,STU-10160,Exception,Central_IT_Architect,41.1,1
+EVT-472039,STU-10161,Exception,Enrollment_Coach,65.76,1
+EVT-979988,STU-10162,Exception,Financial_Aid_Partner,22.0,1
+EVT-986278,STU-10163,Exception,Financial_Aid_Partner,67.93,0
+EVT-282150,STU-10164,Awaiting Action,Financial_Aid_Partner,58.05,0
+EVT-284654,STU-10165,Exception,Financial_Aid_Partner,70.75,0
+EVT-348041,STU-10166,Exception,Financial_Aid_Partner,24.85,1
+EVT-721301,STU-10167,Exception,Central_IT_Architect,6.52,0
+EVT-433451,STU-10168,Awaiting Action,Financial_Aid_Partner,117.11,0
+EVT-945372,STU-10169,Awaiting Action,Central_IT_Architect,76.03,1
+EVT-873959,STU-10170,Approved,Central_IT_Architect,29.16,0
+EVT-831514,STU-10171,Exception,Central_IT_Architect,9.27,1
+EVT-476211,STU-10172,Approved,Central_IT_Architect,21.25,1
+EVT-720298,STU-10173,Approved,Central_IT_Architect,26.65,0
+EVT-129576,STU-10174,Awaiting Action,Central_IT_Architect,36.33,0
+EVT-837623,STU-10175,Approved,Enrollment_Coach,3.92,0
+EVT-834591,STU-10176,Approved,Financial_Aid_Partner,50.67,0
+EVT-468765,STU-10177,Exception,Central_IT_Architect,59.11,0
+EVT-695225,STU-10178,Approved,Financial_Aid_Partner,25.93,1
+EVT-690984,STU-10179,Approved,Financial_Aid_Partner,62.02,1
+EVT-249005,STU-10180,Awaiting Action,Financial_Aid_Partner,145.41,1
+EVT-690462,STU-10181,Approved,Central_IT_Architect,17.01,1
+EVT-297377,STU-10182,Awaiting Action,Central_IT_Architect,98.09,0
+EVT-977340,STU-10183,Exception,Financial_Aid_Partner,28.45,1
+EVT-949767,STU-10184,Awaiting Action,Enrollment_Coach,116.86,0
+EVT-616137,STU-10185,Approved,Central_IT_Architect,27.62,1
+EVT-668458,STU-10186,Approved,Financial_Aid_Partner,27.53,1
+EVT-424065,STU-10187,Exception,Financial_Aid_Partner,39.29,0
+EVT-284084,STU-10188,Awaiting Action,Central_IT_Architect,137.27,0
+EVT-614259,STU-10189,Approved,Central_IT_Architect,34.24,1
+EVT-139807,STU-10190,Exception,Financial_Aid_Partner,13.63,1
+EVT-194641,STU-10191,Approved,Financial_Aid_Partner,27.75,0
+EVT-158896,STU-10192,Awaiting Action,Enrollment_Coach,157.47,1
+EVT-343923,STU-10193,Awaiting Action,Financial_Aid_Partner,38.62,1
+EVT-730889,STU-10194,Approved,Central_IT_Architect,11.19,0
+EVT-329437,STU-10195,Exception,Central_IT_Architect,71.82,0
+EVT-120896,STU-10196,Exception,Financial_Aid_Partner,48.28,0
+EVT-652021,STU-10197,Exception,Enrollment_Coach,9.75,0
+EVT-601207,STU-10198,Exception,Financial_Aid_Partner,5.26,0
+EVT-100716,STU-10199,Approved,Financial_Aid_Partner,1.23,1
+EVT-447848,STU-10200,Exception,Central_IT_Architect,51.96,0
+EVT-743966,STU-10201,Exception,Enrollment_Coach,35.09,1
+EVT-311250,STU-10202,Exception,Financial_Aid_Partner,31.5,0
+EVT-945619,STU-10203,Awaiting Action,Enrollment_Coach,34.74,0
+EVT-236828,STU-10204,Approved,Enrollment_Coach,6.19,1
+EVT-457311,STU-10205,Exception,Financial_Aid_Partner,46.28,1
+EVT-851763,STU-10206,Exception,Central_IT_Architect,30.0,1
+EVT-286080,STU-10207,Awaiting Action,Central_IT_Architect,29.99,0
+EVT-941403,STU-10208,Exception,Enrollment_Coach,56.82,0
+EVT-985296,STU-10209,Exception,Central_IT_Architect,43.56,1
+EVT-439307,STU-10210,Approved,Central_IT_Architect,30.71,0
+EVT-162448,STU-10211,Awaiting Action,Financial_Aid_Partner,53.24,0
+EVT-122977,STU-10212,Awaiting Action,Enrollment_Coach,52.72,0
+EVT-254887,STU-10213,Awaiting Action,Enrollment_Coach,71.75,1
+EVT-715104,STU-10214,Exception,Financial_Aid_Partner,32.46,1
+EVT-838927,STU-10215,Awaiting Action,Enrollment_Coach,67.94,1
+EVT-248533,STU-10216,Exception,Enrollment_Coach,13.46,0
+EVT-911982,STU-10217,Approved,Enrollment_Coach,43.57,0
+EVT-216308,STU-10218,Approved,Financial_Aid_Partner,41.65,0
+EVT-987599,STU-10219,Exception,Central_IT_Architect,60.99,0
+EVT-651860,STU-10220,Awaiting Action,Central_IT_Architect,141.53,1
+EVT-482614,STU-10221,Approved,Enrollment_Coach,36.17,1
+EVT-176054,STU-10222,Exception,Central_IT_Architect,29.64,1
+EVT-491738,STU-10223,Awaiting Action,Financial_Aid_Partner,122.59,1
+EVT-838761,STU-10224,Approved,Central_IT_Architect,26.49,0
+EVT-794303,STU-10225,Exception,Financial_Aid_Partner,70.43,1
+EVT-514812,STU-10226,Exception,Enrollment_Coach,40.95,0
+EVT-714483,STU-10227,Exception,Financial_Aid_Partner,50.78,0
+EVT-205939,STU-10228,Exception,Financial_Aid_Partner,8.24,1
+EVT-452909,STU-10229,Awaiting Action,Financial_Aid_Partner,63.89,0
+EVT-416423,STU-10230,Exception,Enrollment_Coach,49.75,1
+EVT-438273,STU-10231,Exception,Central_IT_Architect,10.32,0
+EVT-243079,STU-10232,Exception,Central_IT_Architect,52.68,1
+EVT-265154,STU-10233,Exception,Financial_Aid_Partner,70.82,0
+EVT-867926,STU-10234,Approved,Financial_Aid_Partner,70.83,0
+EVT-558089,STU-10235,Exception,Central_IT_Architect,56.1,1
+EVT-930307,STU-10236,Approved,Enrollment_Coach,33.53,1
+EVT-770318,STU-10237,Awaiting Action,Financial_Aid_Partner,125.76,0
+EVT-610866,STU-10238,Awaiting Action,Central_IT_Architect,167.71,1
+EVT-780714,STU-10239,Approved,Financial_Aid_Partner,6.46,0
+EVT-432695,STU-10240,Exception,Financial_Aid_Partner,34.07,1
+EVT-282664,STU-10241,Approved,Financial_Aid_Partner,53.43,1
+EVT-841535,STU-10242,Approved,Enrollment_Coach,69.15,0
+EVT-689275,STU-10243,Approved,Enrollment_Coach,5.71,0
+EVT-827250,STU-10244,Exception,Central_IT_Architect,45.66,1
+EVT-743520,STU-10245,Exception,Enrollment_Coach,57.48,0
+EVT-925220,STU-10246,Approved,Enrollment_Coach,22.57,1
+EVT-474158,STU-10247,Awaiting Action,Financial_Aid_Partner,167.77,1
+EVT-334081,STU-10248,Approved,Central_IT_Architect,24.8,0
+EVT-797860,STU-10249,Awaiting Action,Financial_Aid_Partner,132.47,1
+EVT-717558,STU-10250,Awaiting Action,Financial_Aid_Partner,130.66,1
+EVT-954017,STU-10251,Exception,Financial_Aid_Partner,36.96,1
+EVT-283869,STU-10252,Awaiting Action,Central_IT_Architect,155.43,0
+EVT-496764,STU-10253,Approved,Financial_Aid_Partner,52.86,0
+EVT-421727,STU-10254,Approved,Enrollment_Coach,30.37,0
+EVT-869649,STU-10255,Exception,Enrollment_Coach,69.17,0
+EVT-821942,STU-10256,Awaiting Action,Central_IT_Architect,25.72,1
+EVT-408823,STU-10257,Approved,Enrollment_Coach,20.89,0
+EVT-233534,STU-10258,Awaiting Action,Financial_Aid_Partner,67.47,1
+EVT-286340,STU-10259,Awaiting Action,Financial_Aid_Partner,142.5,1
+EVT-864234,STU-10260,Exception,Central_IT_Architect,53.98,0
+EVT-101885,STU-10261,Approved,Enrollment_Coach,52.37,0
+EVT-836109,STU-10262,Approved,Financial_Aid_Partner,40.63,1
+EVT-700660,STU-10263,Approved,Enrollment_Coach,4.52,1
+EVT-510623,STU-10264,Awaiting Action,Enrollment_Coach,136.88,1
+EVT-992083,STU-10265,Exception,Financial_Aid_Partner,12.26,1
+EVT-908274,STU-10266,Approved,Financial_Aid_Partner,3.81,1
+EVT-695048,STU-10267,Exception,Central_IT_Architect,71.31,0
+EVT-133955,STU-10268,Exception,Financial_Aid_Partner,58.26,0
+EVT-290926,STU-10269,Exception,Central_IT_Architect,44.99,0
+EVT-731650,STU-10270,Awaiting Action,Enrollment_Coach,82.45,1
+EVT-433674,STU-10271,Awaiting Action,Enrollment_Coach,82.73,0
+EVT-948095,STU-10272,Exception,Central_IT_Architect,36.45,1
+EVT-741079,STU-10273,Exception,Central_IT_Architect,61.32,1
+EVT-331625,STU-10274,Awaiting Action,Enrollment_Coach,107.72,1
+EVT-770718,STU-10275,Approved,Financial_Aid_Partner,9.63,0
+EVT-693022,STU-10276,Exception,Financial_Aid_Partner,20.3,0
+EVT-209167,STU-10277,Awaiting Action,Enrollment_Coach,118.54,1
+EVT-620287,STU-10278,Exception,Central_IT_Architect,1.12,1
+EVT-247475,STU-10279,Approved,Central_IT_Architect,8.12,0
+EVT-447255,STU-10280,Approved,Enrollment_Coach,12.65,1
+EVT-881549,STU-10281,Exception,Financial_Aid_Partner,42.65,0
+EVT-181586,STU-10282,Approved,Central_IT_Architect,10.97,1
+EVT-349556,STU-10283,Exception,Financial_Aid_Partner,32.21,0
+EVT-463656,STU-10284,Approved,Central_IT_Architect,58.18,0
+EVT-435039,STU-10285,Awaiting Action,Enrollment_Coach,92.23,1
+EVT-276042,STU-10286,Exception,Central_IT_Architect,50.49,1
+EVT-767090,STU-10287,Exception,Enrollment_Coach,34.97,1
+EVT-193035,STU-10288,Awaiting Action,Central_IT_Architect,98.06,1
+EVT-961574,STU-10289,Approved,Enrollment_Coach,62.08,1
+EVT-843404,STU-10290,Awaiting Action,Enrollment_Coach,133.73,1
+EVT-802571,STU-10291,Approved,Central_IT_Architect,6.17,1
+EVT-770147,STU-10292,Approved,Financial_Aid_Partner,10.53,1
+EVT-864711,STU-10293,Exception,Enrollment_Coach,67.25,1
+EVT-452058,STU-10294,Awaiting Action,Financial_Aid_Partner,45.92,0
+EVT-568325,STU-10295,Awaiting Action,Enrollment_Coach,81.54,1
+EVT-111949,STU-10296,Awaiting Action,Central_IT_Architect,57.06,1
+EVT-378095,STU-10297,Awaiting Action,Central_IT_Architect,132.0,0
+EVT-319869,STU-10298,Approved,Enrollment_Coach,17.21,1
+EVT-361662,STU-10299,Exception,Central_IT_Architect,31.75,0
+EVT-826847,STU-10300,Exception,Central_IT_Architect,45.94,0
+EVT-171087,STU-10301,Awaiting Action,Enrollment_Coach,92.58,0
+EVT-467506,STU-10302,Exception,Enrollment_Coach,52.9,0
+EVT-369125,STU-10303,Exception,Financial_Aid_Partner,24.91,0
+EVT-925250,STU-10304,Approved,Financial_Aid_Partner,46.28,0
+EVT-213282,STU-10305,Approved,Enrollment_Coach,54.42,0
+EVT-855408,STU-10306,Exception,Financial_Aid_Partner,8.44,1
+EVT-101343,STU-10307,Awaiting Action,Central_IT_Architect,98.52,1
+EVT-150486,STU-10308,Awaiting Action,Central_IT_Architect,137.29,0
+EVT-504684,STU-10309,Approved,Central_IT_Architect,21.77,1
+EVT-559507,STU-10310,Exception,Enrollment_Coach,53.75,1
+EVT-868170,STU-10311,Exception,Central_IT_Architect,54.2,0
+EVT-540038,STU-10312,Exception,Central_IT_Architect,38.39,1
+EVT-274418,STU-10313,Approved,Financial_Aid_Partner,27.41,0
+EVT-534130,STU-10314,Approved,Enrollment_Coach,50.83,1
+EVT-617033,STU-10315,Exception,Enrollment_Coach,34.22,1
+EVT-497108,STU-10316,Awaiting Action,Central_IT_Architect,133.22,1
+EVT-468292,STU-10317,Awaiting Action,Enrollment_Coach,128.18,1
+EVT-672547,STU-10318,Approved,Financial_Aid_Partner,0.95,1
+EVT-493580,STU-10319,Awaiting Action,Financial_Aid_Partner,90.71,0
+EVT-206355,STU-10320,Awaiting Action,Enrollment_Coach,138.14,0
+EVT-969067,STU-10321,Exception,Central_IT_Architect,48.88,0
+EVT-602780,STU-10322,Exception,Enrollment_Coach,69.25,1
+EVT-927043,STU-10323,Awaiting Action,Financial_Aid_Partner,69.43,0
+EVT-706135,STU-10324,Approved,Central_IT_Architect,3.05,0
+EVT-782591,STU-10325,Exception,Enrollment_Coach,66.08,1
+EVT-895075,STU-10326,Awaiting Action,Financial_Aid_Partner,51.46,0
+EVT-820539,STU-10327,Exception,Enrollment_Coach,68.85,0
+EVT-336540,STU-10328,Exception,Enrollment_Coach,31.15,1
+EVT-270557,STU-10329,Awaiting Action,Central_IT_Architect,135.01,0
+EVT-573209,STU-10330,Awaiting Action,Financial_Aid_Partner,124.65,0
+EVT-177289,STU-10331,Approved,Enrollment_Coach,24.18,0
+EVT-938016,STU-10332,Awaiting Action,Enrollment_Coach,54.58,1
+EVT-986846,STU-10333,Exception,Central_IT_Architect,7.17,0
+EVT-135035,STU-10334,Approved,Enrollment_Coach,47.15,0
+EVT-409234,STU-10335,Awaiting Action,Financial_Aid_Partner,89.07,1
+EVT-121053,STU-10336,Exception,Enrollment_Coach,55.69,0
+EVT-434198,STU-10337,Approved,Central_IT_Architect,53.96,1
+EVT-373812,STU-10338,Approved,Central_IT_Architect,52.9,0
+EVT-209812,STU-10339,Approved,Central_IT_Architect,42.43,1
+EVT-177804,STU-10340,Exception,Enrollment_Coach,14.12,0
+EVT-458411,STU-10341,Exception,Central_IT_Architect,24.36,1
+EVT-278368,STU-10342,Approved,Financial_Aid_Partner,49.73,1
+EVT-493696,STU-10343,Exception,Financial_Aid_Partner,13.04,0
+EVT-268720,STU-10344,Approved,Enrollment_Coach,39.47,1
+EVT-867541,STU-10345,Approved,Enrollment_Coach,48.47,0
+EVT-178645,STU-10346,Exception,Financial_Aid_Partner,59.9,0
+EVT-673619,STU-10347,Exception,Financial_Aid_Partner,0.96,0
+EVT-197627,STU-10348,Approved,Financial_Aid_Partner,7.12,1
+EVT-454366,STU-10349,Exception,Financial_Aid_Partner,7.57,1
+EVT-722886,STU-10350,Awaiting Action,Financial_Aid_Partner,104.64,1
+EVT-743453,STU-10351,Approved,Financial_Aid_Partner,15.88,1
+EVT-606186,STU-10352,Approved,Financial_Aid_Partner,20.47,0
+EVT-838726,STU-10353,Exception,Central_IT_Architect,13.98,1
+EVT-132498,STU-10354,Exception,Financial_Aid_Partner,1.8,0
+EVT-552275,STU-10355,Exception,Financial_Aid_Partner,6.71,1
+EVT-785386,STU-10356,Awaiting Action,Financial_Aid_Partner,78.27,1
+EVT-273012,STU-10357,Exception,Enrollment_Coach,47.31,0
+EVT-736818,STU-10358,Approved,Enrollment_Coach,60.17,0
+EVT-555292,STU-10359,Exception,Central_IT_Architect,68.44,0
+EVT-264735,STU-10360,Exception,Enrollment_Coach,45.98,1
+EVT-156157,STU-10361,Approved,Central_IT_Architect,51.01,1
+EVT-206176,STU-10362,Approved,Enrollment_Coach,8.73,0
+EVT-447177,STU-10363,Awaiting Action,Enrollment_Coach,107.37,0
+EVT-315535,STU-10364,Exception,Enrollment_Coach,9.44,1
+EVT-299212,STU-10365,Awaiting Action,Enrollment_Coach,42.92,0
+EVT-529161,STU-10366,Approved,Central_IT_Architect,64.8,1
+EVT-831063,STU-10367,Approved,Financial_Aid_Partner,40.8,1
+EVT-681028,STU-10368,Approved,Central_IT_Architect,69.64,0
+EVT-857111,STU-10369,Approved,Financial_Aid_Partner,64.52,0
+EVT-865433,STU-10370,Approved,Enrollment_Coach,50.12,1
+EVT-666362,STU-10371,Awaiting Action,Enrollment_Coach,159.87,0
+EVT-378150,STU-10372,Exception,Financial_Aid_Partner,33.67,0
+EVT-792687,STU-10373,Approved,Financial_Aid_Partner,67.41,0
+EVT-395198,STU-10374,Exception,Financial_Aid_Partner,46.03,0
+EVT-411847,STU-10375,Approved,Enrollment_Coach,66.44,1
+EVT-349087,STU-10376,Awaiting Action,Central_IT_Architect,25.89,1
+EVT-200575,STU-10377,Awaiting Action,Financial_Aid_Partner,140.79,1
+EVT-152046,STU-10378,Awaiting Action,Central_IT_Architect,144.22,0
+EVT-511987,STU-10379,Awaiting Action,Enrollment_Coach,73.26,0
+EVT-699544,STU-10380,Exception,Financial_Aid_Partner,23.35,1
+EVT-676363,STU-10381,Awaiting Action,Central_IT_Architect,84.65,1
+EVT-980651,STU-10382,Awaiting Action,Enrollment_Coach,122.91,1
+EVT-614796,STU-10383,Awaiting Action,Enrollment_Coach,82.38,1
+EVT-261050,STU-10384,Approved,Central_IT_Architect,27.62,0
+EVT-157152,STU-10385,Awaiting Action,Central_IT_Architect,136.24,1
+EVT-478356,STU-10386,Exception,Enrollment_Coach,4.42,0
+EVT-104000,STU-10387,Approved,Financial_Aid_Partner,68.81,1
+EVT-548377,STU-10388,Exception,Enrollment_Coach,19.13,0
+EVT-191884,STU-10389,Approved,Central_IT_Architect,31.78,1
+EVT-408857,STU-10390,Exception,Enrollment_Coach,35.45,1
+EVT-963918,STU-10391,Exception,Financial_Aid_Partner,66.87,1
+EVT-794178,STU-10392,Exception,Enrollment_Coach,43.98,1
+EVT-755455,STU-10393,Approved,Financial_Aid_Partner,12.93,1
+EVT-729371,STU-10394,Exception,Central_IT_Architect,35.48,1
+EVT-603660,STU-10395,Exception,Financial_Aid_Partner,10.44,0
+EVT-309374,STU-10396,Approved,Financial_Aid_Partner,55.37,1
+EVT-201698,STU-10397,Exception,Enrollment_Coach,15.8,1
+EVT-126985,STU-10398,Approved,Financial_Aid_Partner,46.36,0
+EVT-317005,STU-10399,Awaiting Action,Financial_Aid_Partner,101.65,1
+EVT-279130,STU-10400,Exception,Enrollment_Coach,51.54,1
+EVT-769191,STU-10401,Approved,Financial_Aid_Partner,7.53,0
+EVT-405986,STU-10402,Awaiting Action,Enrollment_Coach,71.29,0
+EVT-185916,STU-10403,Exception,Central_IT_Architect,41.18,1
+EVT-596574,STU-10404,Awaiting Action,Financial_Aid_Partner,27.83,1
+EVT-984756,STU-10405,Exception,Financial_Aid_Partner,32.16,0
+EVT-221119,STU-10406,Approved,Enrollment_Coach,64.56,0
+EVT-423331,STU-10407,Awaiting Action,Enrollment_Coach,137.2,1
+EVT-923002,STU-10408,Awaiting Action,Financial_Aid_Partner,156.83,0
+EVT-516774,STU-10409,Awaiting Action,Enrollment_Coach,46.55,1
+EVT-593821,STU-10410,Awaiting Action,Enrollment_Coach,161.2,1
+EVT-612855,STU-10411,Exception,Financial_Aid_Partner,19.26,1
+EVT-793150,STU-10412,Approved,Enrollment_Coach,50.43,0
+EVT-377877,STU-10413,Awaiting Action,Enrollment_Coach,71.89,1
+EVT-195563,STU-10414,Approved,Enrollment_Coach,41.42,1
+EVT-773045,STU-10415,Exception,Central_IT_Architect,37.16,0
+EVT-670557,STU-10416,Approved,Enrollment_Coach,67.68,0
+EVT-506351,STU-10417,Approved,Financial_Aid_Partner,35.38,1
+EVT-293862,STU-10418,Exception,Enrollment_Coach,31.45,0
+EVT-489043,STU-10419,Awaiting Action,Enrollment_Coach,114.88,1
+EVT-499974,STU-10420,Exception,Central_IT_Architect,56.25,1
+EVT-487345,STU-10421,Awaiting Action,Enrollment_Coach,111.03,0
+EVT-295646,STU-10422,Exception,Central_IT_Architect,38.94,0
+EVT-567429,STU-10423,Approved,Enrollment_Coach,0.34,0
+EVT-146784,STU-10424,Awaiting Action,Enrollment_Coach,111.72,0
+EVT-376085,STU-10425,Exception,Central_IT_Architect,58.91,1
+EVT-561101,STU-10426,Exception,Financial_Aid_Partner,34.76,1
+EVT-587648,STU-10427,Exception,Financial_Aid_Partner,40.88,0
+EVT-376195,STU-10428,Awaiting Action,Financial_Aid_Partner,148.91,1
+EVT-337232,STU-10429,Approved,Enrollment_Coach,25.91,1
+EVT-977740,STU-10430,Exception,Central_IT_Architect,49.12,1
+EVT-381607,STU-10431,Exception,Enrollment_Coach,28.9,1
+EVT-691655,STU-10432,Approved,Central_IT_Architect,45.56,0
+EVT-164633,STU-10433,Approved,Enrollment_Coach,69.04,0
+EVT-258471,STU-10434,Approved,Financial_Aid_Partner,6.62,0
+EVT-888775,STU-10435,Approved,Enrollment_Coach,38.54,1
+EVT-830302,STU-10436,Exception,Enrollment_Coach,69.19,0
+EVT-799891,STU-10437,Exception,Central_IT_Architect,5.88,0
+EVT-201400,STU-10438,Awaiting Action,Central_IT_Architect,165.15,1
+EVT-189870,STU-10439,Exception,Central_IT_Architect,55.21,0
+EVT-800596,STU-10440,Exception,Enrollment_Coach,46.68,0
+EVT-460491,STU-10441,Approved,Central_IT_Architect,12.8,1
+EVT-947438,STU-10442,Awaiting Action,Central_IT_Architect,53.8,1
+EVT-667750,STU-10443,Approved,Central_IT_Architect,27.72,1
+EVT-534096,STU-10444,Exception,Enrollment_Coach,13.83,1
+EVT-893202,STU-10445,Exception,Central_IT_Architect,50.13,1
+EVT-718372,STU-10446,Exception,Enrollment_Coach,64.56,1
+EVT-338564,STU-10447,Awaiting Action,Central_IT_Architect,80.56,1
+EVT-680493,STU-10448,Approved,Enrollment_Coach,25.93,0
+EVT-163946,STU-10449,Awaiting Action,Financial_Aid_Partner,101.2,0
+EVT-981639,STU-10450,Exception,Enrollment_Coach,45.6,0
+EVT-505910,STU-10451,Exception,Enrollment_Coach,52.97,0
+EVT-958160,STU-10452,Approved,Financial_Aid_Partner,10.16,1
+EVT-647967,STU-10453,Approved,Central_IT_Architect,13.98,0
+EVT-538967,STU-10454,Approved,Enrollment_Coach,51.85,1
+EVT-661527,STU-10455,Approved,Enrollment_Coach,42.73,0
+EVT-820442,STU-10456,Exception,Central_IT_Architect,35.28,0
+EVT-597889,STU-10457,Awaiting Action,Central_IT_Architect,51.53,1
+EVT-700534,STU-10458,Approved,Central_IT_Architect,38.97,0
+EVT-347088,STU-10459,Approved,Central_IT_Architect,22.23,0
+EVT-599397,STU-10460,Approved,Central_IT_Architect,38.49,0
+EVT-413369,STU-10461,Exception,Financial_Aid_Partner,60.08,1
+EVT-182790,STU-10462,Exception,Enrollment_Coach,32.41,1
+EVT-513982,STU-10463,Approved,Financial_Aid_Partner,71.7,1
+EVT-995420,STU-10464,Exception,Central_IT_Architect,2.76,1
+EVT-849003,STU-10465,Awaiting Action,Enrollment_Coach,40.09,1
+EVT-136415,STU-10466,Exception,Financial_Aid_Partner,56.74,1
+EVT-626491,STU-10467,Exception,Enrollment_Coach,3.18,1
+EVT-698967,STU-10468,Approved,Financial_Aid_Partner,8.6,1
+EVT-641922,STU-10469,Awaiting Action,Central_IT_Architect,106.23,0
+EVT-939333,STU-10470,Exception,Financial_Aid_Partner,48.08,0
+EVT-699245,STU-10471,Approved,Central_IT_Architect,33.06,0
+EVT-810446,STU-10472,Awaiting Action,Financial_Aid_Partner,89.3,0
+EVT-750403,STU-10473,Approved,Financial_Aid_Partner,62.96,0
+EVT-254610,STU-10474,Approved,Central_IT_Architect,10.81,0
+EVT-226124,STU-10475,Exception,Financial_Aid_Partner,41.75,0
+EVT-893969,STU-10476,Exception,Enrollment_Coach,66.59,0
+EVT-570852,STU-10477,Awaiting Action,Central_IT_Architect,152.9,0
+EVT-281276,STU-10478,Awaiting Action,Enrollment_Coach,37.88,0
+EVT-275284,STU-10479,Awaiting Action,Enrollment_Coach,39.47,1
+EVT-322182,STU-10480,Approved,Enrollment_Coach,33.98,0
+EVT-947732,STU-10481,Exception,Enrollment_Coach,66.11,0
+EVT-302087,STU-10482,Exception,Enrollment_Coach,3.39,1
+EVT-232315,STU-10483,Approved,Financial_Aid_Partner,50.52,0
+EVT-144748,STU-10484,Approved,Financial_Aid_Partner,9.49,0
+EVT-543940,STU-10485,Awaiting Action,Financial_Aid_Partner,103.84,1
+EVT-182175,STU-10486,Exception,Central_IT_Architect,3.69,1
+EVT-816308,STU-10487,Approved,Central_IT_Architect,22.2,0
+EVT-556542,STU-10488,Approved,Financial_Aid_Partner,57.17,1
+EVT-311727,STU-10489,Awaiting Action,Financial_Aid_Partner,29.1,1
+EVT-962520,STU-10490,Awaiting Action,Central_IT_Architect,123.38,0
+EVT-757694,STU-10491,Awaiting Action,Central_IT_Architect,94.62,0
+EVT-255061,STU-10492,Awaiting Action,Enrollment_Coach,51.29,0
+EVT-974625,STU-10493,Exception,Financial_Aid_Partner,7.75,0
+EVT-723952,STU-10494,Exception,Financial_Aid_Partner,35.84,1
+EVT-370413,STU-10495,Awaiting Action,Central_IT_Architect,34.47,1
+EVT-435281,STU-10496,Exception,Central_IT_Architect,15.96,1
+EVT-862422,STU-10497,Exception,Financial_Aid_Partner,57.94,0
+EVT-946561,STU-10498,Approved,Enrollment_Coach,30.74,1
+EVT-170267,STU-10499,Exception,Central_IT_Architect,58.45,0
+EVT-191254,STU-10500,Exception,Enrollment_Coach,70.72,0
+EVT-506951,STU-10501,Awaiting Action,Financial_Aid_Partner,162.69,1
+EVT-683390,STU-10502,Awaiting Action,Enrollment_Coach,65.23,1
+EVT-516656,STU-10503,Awaiting Action,Financial_Aid_Partner,57.94,0
+EVT-678870,STU-10504,Approved,Enrollment_Coach,41.51,1
+EVT-441968,STU-10505,Approved,Central_IT_Architect,9.97,0
+EVT-998235,STU-10506,Awaiting Action,Central_IT_Architect,119.15,0
+EVT-389617,STU-10507,Approved,Financial_Aid_Partner,57.12,1
+EVT-644932,STU-10508,Approved,Central_IT_Architect,55.05,1
+EVT-580412,STU-10509,Exception,Enrollment_Coach,42.74,1
+EVT-112964,STU-10510,Exception,Enrollment_Coach,24.22,1
+EVT-924758,STU-10511,Exception,Enrollment_Coach,8.78,0
+EVT-834435,STU-10512,Awaiting Action,Financial_Aid_Partner,34.54,1
+EVT-753323,STU-10513,Awaiting Action,Enrollment_Coach,32.74,1
+EVT-716118,STU-10514,Awaiting Action,Enrollment_Coach,98.91,1
+EVT-647945,STU-10515,Approved,Central_IT_Architect,39.89,1
+EVT-919656,STU-10516,Exception,Financial_Aid_Partner,31.64,0
+EVT-539976,STU-10517,Exception,Enrollment_Coach,66.66,0
+EVT-217984,STU-10518,Awaiting Action,Enrollment_Coach,49.16,0
+EVT-534574,STU-10519,Awaiting Action,Central_IT_Architect,147.87,1
+EVT-256911,STU-10520,Awaiting Action,Financial_Aid_Partner,83.46,1
+EVT-255398,STU-10521,Awaiting Action,Financial_Aid_Partner,47.03,0
+EVT-694116,STU-10522,Awaiting Action,Central_IT_Architect,40.39,1
+EVT-716493,STU-10523,Awaiting Action,Central_IT_Architect,101.48,1
+EVT-710981,STU-10524,Awaiting Action,Central_IT_Architect,93.13,1
+EVT-895216,STU-10525,Exception,Central_IT_Architect,0.56,0
+EVT-205071,STU-10526,Approved,Financial_Aid_Partner,13.0,1
+EVT-210766,STU-10527,Approved,Financial_Aid_Partner,6.51,1
+EVT-690016,STU-10528,Exception,Enrollment_Coach,46.96,1
+EVT-917411,STU-10529,Exception,Enrollment_Coach,63.87,1
+EVT-205896,STU-10530,Approved,Enrollment_Coach,30.03,0
+EVT-923914,STU-10531,Awaiting Action,Financial_Aid_Partner,34.37,0
+EVT-399990,STU-10532,Approved,Enrollment_Coach,55.65,1
+EVT-661652,STU-10533,Exception,Enrollment_Coach,49.88,0
+EVT-460572,STU-10534,Approved,Central_IT_Architect,14.92,1
+EVT-530849,STU-10535,Awaiting Action,Financial_Aid_Partner,161.56,1
+EVT-376967,STU-10536,Exception,Central_IT_Architect,37.71,1
+EVT-501650,STU-10537,Exception,Enrollment_Coach,29.73,0
+EVT-786594,STU-10538,Approved,Financial_Aid_Partner,67.55,0
+EVT-609172,STU-10539,Exception,Central_IT_Architect,44.0,1
+EVT-699809,STU-10540,Approved,Enrollment_Coach,2.8,1
+EVT-738543,STU-10541,Approved,Enrollment_Coach,13.04,0
+EVT-596025,STU-10542,Exception,Financial_Aid_Partner,36.04,1
+EVT-139285,STU-10543,Exception,Central_IT_Architect,68.43,1
+EVT-280564,STU-10544,Approved,Enrollment_Coach,45.2,1
+EVT-388792,STU-10545,Exception,Enrollment_Coach,56.37,1
+EVT-522548,STU-10546,Exception,Financial_Aid_Partner,25.11,1
+EVT-250840,STU-10547,Awaiting Action,Financial_Aid_Partner,148.73,0
+EVT-748276,STU-10548,Exception,Financial_Aid_Partner,17.04,0
+EVT-738221,STU-10549,Approved,Enrollment_Coach,8.55,1
+EVT-813884,STU-10550,Approved,Enrollment_Coach,38.22,0
+EVT-827356,STU-10551,Exception,Central_IT_Architect,6.98,1
+EVT-521233,STU-10552,Awaiting Action,Central_IT_Architect,43.15,0
+EVT-140666,STU-10553,Exception,Enrollment_Coach,54.83,0
+EVT-515018,STU-10554,Exception,Enrollment_Coach,38.91,0
+EVT-447596,STU-10555,Awaiting Action,Enrollment_Coach,54.01,0
+EVT-824056,STU-10556,Exception,Financial_Aid_Partner,55.49,1
+EVT-349119,STU-10557,Approved,Financial_Aid_Partner,47.51,0
+EVT-151685,STU-10558,Awaiting Action,Central_IT_Architect,86.52,1
+EVT-881975,STU-10559,Awaiting Action,Central_IT_Architect,126.34,1
+EVT-598302,STU-10560,Approved,Central_IT_Architect,57.38,1
+EVT-381631,STU-10561,Exception,Financial_Aid_Partner,49.37,0
+EVT-490532,STU-10562,Exception,Financial_Aid_Partner,69.74,0
+EVT-121215,STU-10563,Awaiting Action,Central_IT_Architect,92.63,0
+EVT-454278,STU-10564,Approved,Financial_Aid_Partner,12.78,0
+EVT-957091,STU-10565,Awaiting Action,Central_IT_Architect,111.13,1
+EVT-932204,STU-10566,Exception,Enrollment_Coach,3.2,1
+EVT-417776,STU-10567,Exception,Enrollment_Coach,46.47,1
+EVT-426053,STU-10568,Approved,Financial_Aid_Partner,20.6,0
+EVT-393964,STU-10569,Awaiting Action,Enrollment_Coach,159.27,0
+EVT-983788,STU-10570,Awaiting Action,Central_IT_Architect,108.81,0
+EVT-615500,STU-10571,Exception,Central_IT_Architect,57.99,0
+EVT-999924,STU-10572,Approved,Financial_Aid_Partner,54.63,1
+EVT-830000,STU-10573,Exception,Central_IT_Architect,3.21,1
+EVT-818119,STU-10574,Approved,Enrollment_Coach,53.34,0
+EVT-202988,STU-10575,Exception,Central_IT_Architect,66.6,0
+EVT-339030,STU-10576,Exception,Enrollment_Coach,12.75,0
+EVT-240913,STU-10577,Approved,Financial_Aid_Partner,56.58,0
+EVT-415076,STU-10578,Exception,Financial_Aid_Partner,34.98,1
+EVT-879850,STU-10579,Approved,Central_IT_Architect,8.45,1
+EVT-564635,STU-10580,Awaiting Action,Enrollment_Coach,96.61,1
+EVT-911630,STU-10581,Approved,Financial_Aid_Partner,51.97,1
+EVT-965938,STU-10582,Approved,Central_IT_Architect,42.72,0
+EVT-436454,STU-10583,Exception,Central_IT_Architect,23.54,1
+EVT-382507,STU-10584,Exception,Enrollment_Coach,14.39,0
+EVT-864201,STU-10585,Exception,Enrollment_Coach,48.77,0
+EVT-537017,STU-10586,Approved,Financial_Aid_Partner,23.52,0
+EVT-734366,STU-10587,Exception,Enrollment_Coach,56.11,1
+EVT-776913,STU-10588,Exception,Enrollment_Coach,23.55,1
+EVT-193624,STU-10589,Awaiting Action,Enrollment_Coach,122.77,0
+EVT-297064,STU-10590,Awaiting Action,Enrollment_Coach,64.03,0
+EVT-563173,STU-10591,Approved,Financial_Aid_Partner,62.64,0
+EVT-321659,STU-10592,Approved,Financial_Aid_Partner,27.1,0
+EVT-963994,STU-10593,Awaiting Action,Financial_Aid_Partner,25.57,0
+EVT-526949,STU-10594,Approved,Central_IT_Architect,33.96,0
+EVT-876936,STU-10595,Approved,Central_IT_Architect,34.93,0
+EVT-607993,STU-10596,Awaiting Action,Central_IT_Architect,44.98,0
+EVT-896386,STU-10597,Awaiting Action,Enrollment_Coach,33.68,1
+EVT-641590,STU-10598,Approved,Enrollment_Coach,66.82,0
+EVT-492073,STU-10599,Approved,Financial_Aid_Partner,32.81,1
+EVT-960899,STU-10600,Exception,Financial_Aid_Partner,27.95,1
+EVT-158936,STU-10601,Approved,Enrollment_Coach,9.91,1
+EVT-640299,STU-10602,Exception,Central_IT_Architect,51.86,0
+EVT-929937,STU-10603,Awaiting Action,Central_IT_Architect,81.79,0
+EVT-266694,STU-10604,Awaiting Action,Central_IT_Architect,140.39,1
+EVT-168804,STU-10605,Awaiting Action,Central_IT_Architect,99.96,1
+EVT-426236,STU-10606,Awaiting Action,Financial_Aid_Partner,155.13,0
+EVT-844037,STU-10607,Approved,Central_IT_Architect,49.87,0
+EVT-631413,STU-10608,Approved,Central_IT_Architect,4.39,0
+EVT-522979,STU-10609,Exception,Enrollment_Coach,9.91,1
+EVT-242239,STU-10610,Awaiting Action,Enrollment_Coach,150.67,1
+EVT-918430,STU-10611,Approved,Financial_Aid_Partner,33.07,0
+EVT-992647,STU-10612,Exception,Central_IT_Architect,12.41,0
+EVT-649753,STU-10613,Exception,Financial_Aid_Partner,24.8,1
+EVT-696296,STU-10614,Exception,Central_IT_Architect,63.83,1
+EVT-130354,STU-10615,Awaiting Action,Enrollment_Coach,90.54,1
+EVT-282176,STU-10616,Exception,Central_IT_Architect,56.87,0
+EVT-302127,STU-10617,Awaiting Action,Enrollment_Coach,107.18,0
+EVT-973390,STU-10618,Exception,Financial_Aid_Partner,44.07,1
+EVT-310477,STU-10619,Exception,Central_IT_Architect,12.32,1
+EVT-977633,STU-10620,Exception,Financial_Aid_Partner,69.85,1
+EVT-160426,STU-10621,Approved,Financial_Aid_Partner,61.57,1
+EVT-361609,STU-10622,Awaiting Action,Financial_Aid_Partner,130.3,0
+EVT-134677,STU-10623,Exception,Enrollment_Coach,61.72,0
+EVT-578621,STU-10624,Awaiting Action,Central_IT_Architect,65.82,1
+EVT-153015,STU-10625,Awaiting Action,Financial_Aid_Partner,150.92,0
+EVT-477880,STU-10626,Exception,Enrollment_Coach,42.63,0
+EVT-838862,STU-10627,Exception,Financial_Aid_Partner,60.28,1
+EVT-308781,STU-10628,Approved,Financial_Aid_Partner,20.17,1
+EVT-387286,STU-10629,Exception,Enrollment_Coach,52.59,1
+EVT-486244,STU-10630,Awaiting Action,Financial_Aid_Partner,89.98,1
+EVT-963508,STU-10631,Awaiting Action,Financial_Aid_Partner,125.0,1
+EVT-586768,STU-10632,Approved,Enrollment_Coach,23.63,0
+EVT-629663,STU-10633,Exception,Financial_Aid_Partner,41.76,1
+EVT-516224,STU-10634,Awaiting Action,Central_IT_Architect,126.62,0
+EVT-766275,STU-10635,Awaiting Action,Financial_Aid_Partner,67.18,0
+EVT-229890,STU-10636,Awaiting Action,Central_IT_Architect,112.47,0
+EVT-814263,STU-10637,Awaiting Action,Enrollment_Coach,140.73,0
+EVT-132047,STU-10638,Awaiting Action,Financial_Aid_Partner,49.63,1
+EVT-353690,STU-10639,Exception,Central_IT_Architect,70.58,1
+EVT-490559,STU-10640,Approved,Central_IT_Architect,2.98,1
+EVT-612530,STU-10641,Exception,Central_IT_Architect,33.94,0
+EVT-722899,STU-10642,Approved,Financial_Aid_Partner,55.36,1
+EVT-567773,STU-10643,Awaiting Action,Central_IT_Architect,60.25,0
+EVT-286209,STU-10644,Approved,Financial_Aid_Partner,38.29,1
+EVT-597635,STU-10645,Approved,Enrollment_Coach,34.56,0
+EVT-715388,STU-10646,Approved,Enrollment_Coach,57.48,0
+EVT-678115,STU-10647,Exception,Financial_Aid_Partner,59.15,0
+EVT-466749,STU-10648,Exception,Financial_Aid_Partner,32.63,1
+EVT-460971,STU-10649,Awaiting Action,Enrollment_Coach,153.64,1
+EVT-271456,STU-10650,Approved,Enrollment_Coach,40.26,1
+EVT-978343,STU-10651,Approved,Central_IT_Architect,0.99,1
+EVT-371224,STU-10652,Approved,Enrollment_Coach,52.72,1
+EVT-885342,STU-10653,Approved,Central_IT_Architect,68.4,1
+EVT-971230,STU-10654,Awaiting Action,Enrollment_Coach,129.72,0
+EVT-822312,STU-10655,Exception,Enrollment_Coach,21.37,1
+EVT-194782,STU-10656,Exception,Financial_Aid_Partner,46.67,0
+EVT-398916,STU-10657,Approved,Enrollment_Coach,6.62,1
+EVT-128783,STU-10658,Exception,Enrollment_Coach,34.6,1
+EVT-505343,STU-10659,Approved,Enrollment_Coach,22.02,0
+EVT-152062,STU-10660,Awaiting Action,Financial_Aid_Partner,90.2,1
+EVT-270820,STU-10661,Awaiting Action,Central_IT_Architect,155.2,1
+EVT-995296,STU-10662,Exception,Enrollment_Coach,53.83,1
+EVT-700056,STU-10663,Approved,Enrollment_Coach,1.86,0
+EVT-917711,STU-10664,Awaiting Action,Enrollment_Coach,50.82,1
+EVT-324729,STU-10665,Exception,Financial_Aid_Partner,55.59,0
+EVT-998746,STU-10666,Awaiting Action,Central_IT_Architect,106.1,0
+EVT-332103,STU-10667,Awaiting Action,Financial_Aid_Partner,80.97,1
+EVT-778827,STU-10668,Approved,Financial_Aid_Partner,56.89,1
+EVT-336047,STU-10669,Exception,Central_IT_Architect,26.73,0
+EVT-810614,STU-10670,Approved,Financial_Aid_Partner,33.48,1
+EVT-316773,STU-10671,Exception,Enrollment_Coach,45.64,0
+EVT-382154,STU-10672,Awaiting Action,Enrollment_Coach,160.21,0
+EVT-783238,STU-10673,Approved,Central_IT_Architect,5.18,1
+EVT-529399,STU-10674,Approved,Financial_Aid_Partner,64.34,1
+EVT-638214,STU-10675,Approved,Central_IT_Architect,24.04,0
+EVT-121026,STU-10676,Approved,Enrollment_Coach,2.45,0
+EVT-918207,STU-10677,Exception,Financial_Aid_Partner,30.72,0
+EVT-904858,STU-10678,Exception,Financial_Aid_Partner,19.5,1
+EVT-815338,STU-10679,Approved,Central_IT_Architect,68.12,0
+EVT-109330,STU-10680,Approved,Enrollment_Coach,39.1,1
+EVT-597126,STU-10681,Exception,Central_IT_Architect,57.22,1
+EVT-238741,STU-10682,Exception,Enrollment_Coach,56.74,0
+EVT-778818,STU-10683,Approved,Enrollment_Coach,5.92,0
+EVT-281614,STU-10684,Exception,Central_IT_Architect,63.43,1
+EVT-730343,STU-10685,Approved,Financial_Aid_Partner,53.0,1
+EVT-939767,STU-10686,Approved,Financial_Aid_Partner,4.04,1
+EVT-108874,STU-10687,Approved,Central_IT_Architect,68.07,0
+EVT-334639,STU-10688,Awaiting Action,Enrollment_Coach,58.9,0
+EVT-364650,STU-10689,Approved,Central_IT_Architect,63.95,0
+EVT-737894,STU-10690,Exception,Financial_Aid_Partner,8.08,1
+EVT-944193,STU-10691,Awaiting Action,Central_IT_Architect,149.42,1
+EVT-420297,STU-10692,Exception,Enrollment_Coach,44.62,0
+EVT-847362,STU-10693,Exception,Enrollment_Coach,26.38,1
+EVT-843826,STU-10694,Exception,Financial_Aid_Partner,12.7,1
+EVT-773962,STU-10695,Approved,Central_IT_Architect,40.28,0
+EVT-388755,STU-10696,Exception,Central_IT_Architect,4.92,0
+EVT-544393,STU-10697,Exception,Enrollment_Coach,51.1,1
+EVT-494763,STU-10698,Exception,Enrollment_Coach,14.82,1
+EVT-992952,STU-10699,Awaiting Action,Financial_Aid_Partner,63.79,1
+EVT-465648,STU-10700,Approved,Financial_Aid_Partner,17.26,0
+EVT-581294,STU-10701,Approved,Financial_Aid_Partner,8.26,1
+EVT-364239,STU-10702,Awaiting Action,Enrollment_Coach,114.63,0
+EVT-328808,STU-10703,Exception,Central_IT_Architect,67.62,0
+EVT-589368,STU-10704,Awaiting Action,Enrollment_Coach,66.39,1
+EVT-416822,STU-10705,Awaiting Action,Enrollment_Coach,155.99,0
+EVT-810091,STU-10706,Approved,Financial_Aid_Partner,15.18,1
+EVT-645928,STU-10707,Approved,Financial_Aid_Partner,53.67,1
+EVT-964352,STU-10708,Awaiting Action,Financial_Aid_Partner,124.67,0
+EVT-753898,STU-10709,Exception,Enrollment_Coach,25.46,0
+EVT-516444,STU-10710,Approved,Central_IT_Architect,19.32,1
+EVT-712879,STU-10711,Exception,Central_IT_Architect,49.01,1
+EVT-207282,STU-10712,Approved,Central_IT_Architect,20.03,0
+EVT-107704,STU-10713,Exception,Central_IT_Architect,4.66,0
+EVT-636361,STU-10714,Exception,Enrollment_Coach,24.92,0
+EVT-794530,STU-10715,Exception,Financial_Aid_Partner,35.06,1
+EVT-984247,STU-10716,Awaiting Action,Financial_Aid_Partner,128.17,0
+EVT-980152,STU-10717,Approved,Central_IT_Architect,8.92,1
+EVT-492408,STU-10718,Exception,Enrollment_Coach,51.14,0
+EVT-688730,STU-10719,Exception,Central_IT_Architect,48.87,1
+EVT-778787,STU-10720,Awaiting Action,Central_IT_Architect,55.68,0
+EVT-722615,STU-10721,Awaiting Action,Enrollment_Coach,95.32,1
+EVT-738635,STU-10722,Exception,Central_IT_Architect,44.75,1
+EVT-396408,STU-10723,Exception,Financial_Aid_Partner,57.61,1
+EVT-412974,STU-10724,Approved,Enrollment_Coach,68.07,1
+EVT-817659,STU-10725,Approved,Central_IT_Architect,58.25,1
+EVT-213355,STU-10726,Awaiting Action,Financial_Aid_Partner,166.91,1
+EVT-605139,STU-10727,Awaiting Action,Enrollment_Coach,103.83,1
+EVT-166938,STU-10728,Approved,Central_IT_Architect,64.23,1
+EVT-452618,STU-10729,Approved,Central_IT_Architect,33.02,1
+EVT-389913,STU-10730,Approved,Financial_Aid_Partner,5.86,0
+EVT-771712,STU-10731,Approved,Enrollment_Coach,64.66,0
+EVT-440930,STU-10732,Exception,Central_IT_Architect,20.83,0
+EVT-390334,STU-10733,Exception,Financial_Aid_Partner,68.88,1
+EVT-373832,STU-10734,Exception,Financial_Aid_Partner,7.96,1
+EVT-787991,STU-10735,Awaiting Action,Central_IT_Architect,167.33,0
+EVT-845635,STU-10736,Approved,Central_IT_Architect,50.22,0
+EVT-783112,STU-10737,Exception,Enrollment_Coach,35.79,0
+EVT-413305,STU-10738,Approved,Financial_Aid_Partner,63.01,1
+EVT-297509,STU-10739,Approved,Financial_Aid_Partner,37.54,1
+EVT-257212,STU-10740,Awaiting Action,Enrollment_Coach,35.48,0
+EVT-642421,STU-10741,Exception,Central_IT_Architect,21.18,0
+EVT-902658,STU-10742,Exception,Enrollment_Coach,69.81,1
+EVT-351974,STU-10743,Approved,Enrollment_Coach,39.03,0
+EVT-159532,STU-10744,Exception,Enrollment_Coach,9.59,1
+EVT-944554,STU-10745,Exception,Enrollment_Coach,25.03,0
+EVT-998960,STU-10746,Approved,Enrollment_Coach,32.01,0
+EVT-941339,STU-10747,Approved,Financial_Aid_Partner,46.45,1
+EVT-949376,STU-10748,Awaiting Action,Central_IT_Architect,39.6,1
+EVT-729180,STU-10749,Exception,Financial_Aid_Partner,4.63,0
+EVT-523727,STU-10750,Approved,Enrollment_Coach,62.78,0
+EVT-792616,STU-10751,Exception,Financial_Aid_Partner,16.8,0
+EVT-435109,STU-10752,Exception,Central_IT_Architect,68.22,1
+EVT-813824,STU-10753,Approved,Central_IT_Architect,46.45,1
+EVT-246726,STU-10754,Exception,Enrollment_Coach,29.7,1
+EVT-856320,STU-10755,Exception,Central_IT_Architect,24.75,1
+EVT-126691,STU-10756,Awaiting Action,Central_IT_Architect,134.5,1
+EVT-787237,STU-10757,Exception,Enrollment_Coach,23.56,1
+EVT-621533,STU-10758,Awaiting Action,Financial_Aid_Partner,71.28,0
+EVT-409963,STU-10759,Awaiting Action,Financial_Aid_Partner,89.21,0
+EVT-372028,STU-10760,Approved,Enrollment_Coach,60.63,0
+EVT-538897,STU-10761,Exception,Financial_Aid_Partner,32.11,1
+EVT-524252,STU-10762,Exception,Enrollment_Coach,21.96,0
+EVT-507135,STU-10763,Awaiting Action,Enrollment_Coach,60.77,1
+EVT-872519,STU-10764,Approved,Enrollment_Coach,56.85,1
+EVT-137034,STU-10765,Awaiting Action,Financial_Aid_Partner,97.12,0
+EVT-711344,STU-10766,Awaiting Action,Financial_Aid_Partner,90.82,0
+EVT-842464,STU-10767,Awaiting Action,Central_IT_Architect,35.0,1
+EVT-699829,STU-10768,Exception,Enrollment_Coach,69.9,0
+EVT-955653,STU-10769,Exception,Enrollment_Coach,55.45,0
+EVT-299140,STU-10770,Exception,Enrollment_Coach,3.5,1
+EVT-459836,STU-10771,Exception,Financial_Aid_Partner,25.49,0
+EVT-861842,STU-10772,Approved,Central_IT_Architect,32.88,0
+EVT-848021,STU-10773,Awaiting Action,Financial_Aid_Partner,124.16,1
+EVT-333164,STU-10774,Approved,Enrollment_Coach,66.55,1
+EVT-819656,STU-10775,Awaiting Action,Enrollment_Coach,132.09,1
+EVT-660605,STU-10776,Awaiting Action,Financial_Aid_Partner,79.2,1
+EVT-769320,STU-10777,Approved,Central_IT_Architect,70.07,1
+EVT-923024,STU-10778,Approved,Financial_Aid_Partner,60.45,1
+EVT-598844,STU-10779,Awaiting Action,Enrollment_Coach,131.54,1
+EVT-804505,STU-10780,Exception,Enrollment_Coach,48.01,0
+EVT-475911,STU-10781,Exception,Enrollment_Coach,11.14,0
+EVT-631958,STU-10782,Awaiting Action,Financial_Aid_Partner,147.3,1
+EVT-414777,STU-10783,Awaiting Action,Financial_Aid_Partner,81.42,1
+EVT-986486,STU-10784,Approved,Central_IT_Architect,22.87,1
+EVT-278243,STU-10785,Approved,Financial_Aid_Partner,9.19,0
+EVT-981473,STU-10786,Exception,Enrollment_Coach,18.82,1
+EVT-789558,STU-10787,Exception,Financial_Aid_Partner,13.37,0
+EVT-685365,STU-10788,Approved,Central_IT_Architect,40.54,1
+EVT-289934,STU-10789,Exception,Central_IT_Architect,2.59,1
+EVT-408054,STU-10790,Exception,Central_IT_Architect,22.89,0
+EVT-202344,STU-10791,Approved,Central_IT_Architect,24.82,1
+EVT-593649,STU-10792,Exception,Central_IT_Architect,26.91,1
+EVT-234159,STU-10793,Approved,Enrollment_Coach,38.92,0
+EVT-876909,STU-10794,Awaiting Action,Enrollment_Coach,26.04,1
+EVT-371216,STU-10795,Exception,Enrollment_Coach,21.78,1
+EVT-860413,STU-10796,Approved,Central_IT_Architect,66.28,0
+EVT-947609,STU-10797,Exception,Financial_Aid_Partner,29.19,0
+EVT-686187,STU-10798,Awaiting Action,Financial_Aid_Partner,40.96,0
+EVT-899977,STU-10799,Awaiting Action,Financial_Aid_Partner,156.11,1
+EVT-291961,STU-10800,Awaiting Action,Financial_Aid_Partner,71.44,0
+EVT-812730,STU-10801,Approved,Financial_Aid_Partner,23.12,0
+EVT-451936,STU-10802,Approved,Financial_Aid_Partner,0.41,0
+EVT-786224,STU-10803,Awaiting Action,Enrollment_Coach,131.94,0
+EVT-193637,STU-10804,Exception,Enrollment_Coach,70.25,0
+EVT-333049,STU-10805,Exception,Central_IT_Architect,23.92,1
+EVT-472541,STU-10806,Awaiting Action,Enrollment_Coach,94.06,0
+EVT-334176,STU-10807,Awaiting Action,Enrollment_Coach,34.29,0
+EVT-880360,STU-10808,Exception,Enrollment_Coach,20.94,0
+EVT-422002,STU-10809,Awaiting Action,Financial_Aid_Partner,103.2,0
+EVT-540897,STU-10810,Exception,Enrollment_Coach,70.61,1
+EVT-926372,STU-10811,Awaiting Action,Financial_Aid_Partner,59.27,0
+EVT-447411,STU-10812,Exception,Financial_Aid_Partner,10.68,0
+EVT-489737,STU-10813,Awaiting Action,Enrollment_Coach,160.83,1
+EVT-373216,STU-10814,Exception,Financial_Aid_Partner,65.3,0
+EVT-714015,STU-10815,Awaiting Action,Central_IT_Architect,44.63,1
+EVT-408334,STU-10816,Approved,Financial_Aid_Partner,49.65,1
+EVT-586288,STU-10817,Awaiting Action,Enrollment_Coach,142.23,0
+EVT-992562,STU-10818,Exception,Central_IT_Architect,64.82,1
+EVT-223502,STU-10819,Exception,Financial_Aid_Partner,10.12,0
+EVT-593393,STU-10820,Awaiting Action,Enrollment_Coach,145.26,1
+EVT-156284,STU-10821,Approved,Enrollment_Coach,22.25,1
+EVT-765213,STU-10822,Awaiting Action,Central_IT_Architect,48.98,0
+EVT-711922,STU-10823,Exception,Enrollment_Coach,60.56,1
+EVT-708502,STU-10824,Exception,Enrollment_Coach,32.17,0
+EVT-750803,STU-10825,Awaiting Action,Central_IT_Architect,27.09,1
+EVT-174675,STU-10826,Awaiting Action,Financial_Aid_Partner,38.92,1
+EVT-595158,STU-10827,Awaiting Action,Central_IT_Architect,66.71,1
+EVT-303993,STU-10828,Exception,Central_IT_Architect,42.05,0
+EVT-624788,STU-10829,Awaiting Action,Central_IT_Architect,101.22,0
+EVT-225636,STU-10830,Exception,Financial_Aid_Partner,67.37,0
+EVT-813763,STU-10831,Awaiting Action,Financial_Aid_Partner,80.59,0
+EVT-500209,STU-10832,Exception,Financial_Aid_Partner,1.72,1
+EVT-655575,STU-10833,Approved,Financial_Aid_Partner,38.81,0
+EVT-412848,STU-10834,Exception,Financial_Aid_Partner,32.13,0
+EVT-533174,STU-10835,Approved,Central_IT_Architect,48.39,1
+EVT-156688,STU-10836,Exception,Financial_Aid_Partner,6.38,0
+EVT-995735,STU-10837,Approved,Central_IT_Architect,36.9,0
+EVT-258102,STU-10838,Awaiting Action,Central_IT_Architect,35.63,1
+EVT-244037,STU-10839,Exception,Financial_Aid_Partner,22.95,1
+EVT-310026,STU-10840,Approved,Enrollment_Coach,43.61,0
+EVT-459315,STU-10841,Approved,Enrollment_Coach,67.93,0
+EVT-529068,STU-10842,Approved,Financial_Aid_Partner,65.42,1
+EVT-697062,STU-10843,Exception,Financial_Aid_Partner,26.06,0
+EVT-579798,STU-10844,Awaiting Action,Financial_Aid_Partner,134.08,0
+EVT-250181,STU-10845,Awaiting Action,Financial_Aid_Partner,121.7,0
+EVT-431752,STU-10846,Exception,Central_IT_Architect,26.68,1
+EVT-850432,STU-10847,Exception,Enrollment_Coach,26.91,1
+EVT-289117,STU-10848,Exception,Central_IT_Architect,20.57,0
+EVT-916779,STU-10849,Exception,Enrollment_Coach,25.36,1
+EVT-184736,STU-10850,Exception,Central_IT_Architect,70.38,0
+EVT-611265,STU-10851,Approved,Central_IT_Architect,62.96,1
+EVT-448787,STU-10852,Approved,Financial_Aid_Partner,6.4,1
+EVT-761685,STU-10853,Awaiting Action,Central_IT_Architect,46.53,1
+EVT-285413,STU-10854,Exception,Central_IT_Architect,32.04,1
+EVT-428638,STU-10855,Approved,Financial_Aid_Partner,71.47,0
+EVT-765320,STU-10856,Approved,Enrollment_Coach,57.88,0
+EVT-160831,STU-10857,Approved,Enrollment_Coach,20.85,0
+EVT-104942,STU-10858,Awaiting Action,Central_IT_Architect,75.89,0
+EVT-574012,STU-10859,Exception,Enrollment_Coach,69.87,0
+EVT-386814,STU-10860,Awaiting Action,Central_IT_Architect,55.59,1
+EVT-319553,STU-10861,Approved,Central_IT_Architect,64.55,1
+EVT-898169,STU-10862,Approved,Enrollment_Coach,10.13,0
+EVT-911117,STU-10863,Awaiting Action,Enrollment_Coach,29.44,1
+EVT-276795,STU-10864,Approved,Enrollment_Coach,6.29,0
+EVT-704272,STU-10865,Awaiting Action,Enrollment_Coach,121.37,1
+EVT-901619,STU-10866,Approved,Enrollment_Coach,34.22,1
+EVT-266131,STU-10867,Exception,Enrollment_Coach,62.48,1
+EVT-613358,STU-10868,Approved,Enrollment_Coach,71.04,0
+EVT-923353,STU-10869,Exception,Enrollment_Coach,4.85,1
+EVT-900660,STU-10870,Awaiting Action,Financial_Aid_Partner,55.52,0
+EVT-917629,STU-10871,Awaiting Action,Enrollment_Coach,124.48,1
+EVT-192318,STU-10872,Exception,Financial_Aid_Partner,6.46,0
+EVT-235691,STU-10873,Exception,Central_IT_Architect,29.54,0
+EVT-744328,STU-10874,Exception,Central_IT_Architect,65.85,1
+EVT-554779,STU-10875,Awaiting Action,Financial_Aid_Partner,144.54,0
+EVT-764259,STU-10876,Exception,Financial_Aid_Partner,40.06,0
+EVT-550268,STU-10877,Exception,Enrollment_Coach,51.17,0
+EVT-522988,STU-10878,Approved,Enrollment_Coach,54.4,1
+EVT-549865,STU-10879,Approved,Central_IT_Architect,9.95,1
+EVT-600590,STU-10880,Exception,Enrollment_Coach,13.47,1
+EVT-501936,STU-10881,Awaiting Action,Financial_Aid_Partner,140.95,0
+EVT-104895,STU-10882,Awaiting Action,Enrollment_Coach,116.49,0
+EVT-139557,STU-10883,Approved,Central_IT_Architect,3.14,0
+EVT-659711,STU-10884,Approved,Enrollment_Coach,59.51,1
+EVT-309100,STU-10885,Exception,Enrollment_Coach,60.11,0
+EVT-866151,STU-10886,Exception,Financial_Aid_Partner,21.95,0
+EVT-491225,STU-10887,Awaiting Action,Financial_Aid_Partner,127.3,1
+EVT-114760,STU-10888,Approved,Central_IT_Architect,33.42,1
+EVT-437864,STU-10889,Approved,Central_IT_Architect,2.03,0
+EVT-893612,STU-10890,Exception,Central_IT_Architect,0.28,0
+EVT-973703,STU-10891,Exception,Central_IT_Architect,18.99,1
+EVT-656829,STU-10892,Exception,Central_IT_Architect,68.84,1
+EVT-299834,STU-10893,Exception,Central_IT_Architect,60.08,0
+EVT-118786,STU-10894,Approved,Financial_Aid_Partner,34.08,0
+EVT-809621,STU-10895,Exception,Central_IT_Architect,47.11,0
+EVT-104324,STU-10896,Approved,Central_IT_Architect,64.28,1
+EVT-757128,STU-10897,Exception,Enrollment_Coach,30.09,1
+EVT-869238,STU-10898,Approved,Financial_Aid_Partner,35.47,1
+EVT-360909,STU-10899,Awaiting Action,Enrollment_Coach,153.22,1
+EVT-337256,STU-10900,Approved,Enrollment_Coach,17.7,1
+EVT-827213,STU-10901,Exception,Financial_Aid_Partner,8.68,0
+EVT-461076,STU-10902,Approved,Central_IT_Architect,20.03,1
+EVT-427252,STU-10903,Approved,Enrollment_Coach,71.59,0
+EVT-235193,STU-10904,Approved,Central_IT_Architect,4.9,0
+EVT-207697,STU-10905,Awaiting Action,Financial_Aid_Partner,80.55,0
+EVT-502181,STU-10906,Awaiting Action,Enrollment_Coach,68.74,1
+EVT-627786,STU-10907,Awaiting Action,Enrollment_Coach,32.02,0
+EVT-717265,STU-10908,Exception,Financial_Aid_Partner,62.53,1
+EVT-420984,STU-10909,Awaiting Action,Financial_Aid_Partner,25.17,0
+EVT-275133,STU-10910,Awaiting Action,Enrollment_Coach,135.34,0
+EVT-168458,STU-10911,Exception,Enrollment_Coach,50.02,1
+EVT-963862,STU-10912,Approved,Enrollment_Coach,8.7,1
+EVT-147939,STU-10913,Exception,Financial_Aid_Partner,36.95,0
+EVT-412687,STU-10914,Approved,Central_IT_Architect,41.46,1
+EVT-404955,STU-10915,Exception,Central_IT_Architect,60.88,1
+EVT-578073,STU-10916,Exception,Central_IT_Architect,11.81,1
+EVT-863187,STU-10917,Approved,Central_IT_Architect,4.31,1
+EVT-645561,STU-10918,Approved,Financial_Aid_Partner,23.09,1
+EVT-725339,STU-10919,Exception,Financial_Aid_Partner,63.25,0
+EVT-649577,STU-10920,Awaiting Action,Central_IT_Architect,134.58,1
+EVT-454245,STU-10921,Exception,Enrollment_Coach,11.84,1
+EVT-554730,STU-10922,Exception,Enrollment_Coach,19.7,0
+EVT-820141,STU-10923,Exception,Financial_Aid_Partner,30.26,1
+EVT-240288,STU-10924,Awaiting Action,Central_IT_Architect,157.79,1
+EVT-459381,STU-10925,Awaiting Action,Financial_Aid_Partner,78.26,0
+EVT-613989,STU-10926,Awaiting Action,Central_IT_Architect,58.73,0
+EVT-476701,STU-10927,Approved,Central_IT_Architect,38.18,0
+EVT-886553,STU-10928,Exception,Enrollment_Coach,67.42,1
+EVT-297579,STU-10929,Approved,Enrollment_Coach,37.05,0
+EVT-272892,STU-10930,Awaiting Action,Enrollment_Coach,37.61,0
+EVT-951452,STU-10931,Awaiting Action,Financial_Aid_Partner,85.01,0
+EVT-522986,STU-10932,Exception,Enrollment_Coach,6.9,1
+EVT-120053,STU-10933,Approved,Enrollment_Coach,54.21,1
+EVT-339513,STU-10934,Awaiting Action,Financial_Aid_Partner,166.46,1
+EVT-335217,STU-10935,Approved,Financial_Aid_Partner,62.83,0
+EVT-862491,STU-10936,Awaiting Action,Financial_Aid_Partner,72.88,0
+EVT-237579,STU-10937,Exception,Enrollment_Coach,49.35,0
+EVT-321449,STU-10938,Approved,Central_IT_Architect,21.75,1
+EVT-869735,STU-10939,Exception,Enrollment_Coach,49.38,0
+EVT-122977,STU-10940,Approved,Central_IT_Architect,49.59,1
+EVT-718337,STU-10941,Exception,Financial_Aid_Partner,6.99,1
+EVT-629146,STU-10942,Awaiting Action,Enrollment_Coach,52.07,1
+EVT-277193,STU-10943,Awaiting Action,Enrollment_Coach,120.49,1
+EVT-229144,STU-10944,Approved,Central_IT_Architect,1.03,0
+EVT-484398,STU-10945,Exception,Enrollment_Coach,37.36,0
+EVT-845652,STU-10946,Awaiting Action,Enrollment_Coach,56.15,0
+EVT-782141,STU-10947,Exception,Enrollment_Coach,34.96,1
+EVT-930605,STU-10948,Exception,Financial_Aid_Partner,24.57,1
+EVT-139178,STU-10949,Awaiting Action,Central_IT_Architect,151.11,0
+EVT-493417,STU-10950,Exception,Enrollment_Coach,7.46,1
+EVT-771425,STU-10951,Awaiting Action,Central_IT_Architect,138.86,0
+EVT-368214,STU-10952,Awaiting Action,Financial_Aid_Partner,143.67,0
+EVT-908713,STU-10953,Exception,Financial_Aid_Partner,13.65,0
+EVT-660708,STU-10954,Awaiting Action,Central_IT_Architect,48.59,1
+EVT-753404,STU-10955,Approved,Enrollment_Coach,44.21,1
+EVT-150947,STU-10956,Awaiting Action,Enrollment_Coach,48.47,0
+EVT-722774,STU-10957,Awaiting Action,Financial_Aid_Partner,84.15,0
+EVT-150290,STU-10958,Exception,Financial_Aid_Partner,38.36,1
+EVT-794125,STU-10959,Awaiting Action,Financial_Aid_Partner,39.95,0
+EVT-213365,STU-10960,Exception,Financial_Aid_Partner,54.48,0
+EVT-785315,STU-10961,Approved,Enrollment_Coach,8.29,1
+EVT-976735,STU-10962,Awaiting Action,Financial_Aid_Partner,71.44,1
+EVT-120700,STU-10963,Approved,Central_IT_Architect,5.59,0
+EVT-150578,STU-10964,Awaiting Action,Central_IT_Architect,105.15,1
+EVT-823255,STU-10965,Approved,Central_IT_Architect,66.49,1
+EVT-221414,STU-10966,Awaiting Action,Enrollment_Coach,51.7,0
+EVT-537020,STU-10967,Exception,Central_IT_Architect,22.5,0
+EVT-565897,STU-10968,Approved,Central_IT_Architect,26.17,0
+EVT-498724,STU-10969,Exception,Enrollment_Coach,58.85,1
+EVT-229598,STU-10970,Exception,Financial_Aid_Partner,64.07,0
+EVT-673867,STU-10971,Approved,Financial_Aid_Partner,43.07,1
+EVT-365015,STU-10972,Awaiting Action,Financial_Aid_Partner,54.22,1
+EVT-597440,STU-10973,Awaiting Action,Financial_Aid_Partner,102.23,0
+EVT-835962,STU-10974,Awaiting Action,Financial_Aid_Partner,159.24,0
+EVT-260565,STU-10975,Exception,Enrollment_Coach,2.17,0
+EVT-315477,STU-10976,Exception,Central_IT_Architect,58.67,0
+EVT-828961,STU-10977,Approved,Financial_Aid_Partner,16.09,0
+EVT-819050,STU-10978,Exception,Central_IT_Architect,61.71,0
+EVT-760929,STU-10979,Awaiting Action,Central_IT_Architect,41.84,0
+EVT-109756,STU-10980,Approved,Central_IT_Architect,16.39,1
+EVT-415743,STU-10981,Awaiting Action,Enrollment_Coach,55.18,0
+EVT-541315,STU-10982,Approved,Financial_Aid_Partner,9.46,1
+EVT-793805,STU-10983,Awaiting Action,Enrollment_Coach,75.67,0
+EVT-205885,STU-10984,Exception,Central_IT_Architect,49.77,0
+EVT-794663,STU-10985,Exception,Financial_Aid_Partner,56.47,1
+EVT-645583,STU-10986,Awaiting Action,Financial_Aid_Partner,49.41,1
+EVT-383091,STU-10987,Approved,Enrollment_Coach,55.8,0
+EVT-753050,STU-10988,Exception,Enrollment_Coach,54.55,1
+EVT-735053,STU-10989,Approved,Central_IT_Architect,3.16,0
+EVT-834764,STU-10990,Awaiting Action,Central_IT_Architect,82.21,1
+EVT-243826,STU-10991,Awaiting Action,Central_IT_Architect,69.88,1
+EVT-539170,STU-10992,Awaiting Action,Central_IT_Architect,80.35,1
+EVT-971002,STU-10993,Approved,Financial_Aid_Partner,4.36,1
+EVT-210010,STU-10994,Exception,Enrollment_Coach,8.65,0
+EVT-636435,STU-10995,Awaiting Action,Enrollment_Coach,90.33,1
+EVT-853681,STU-10996,Approved,Financial_Aid_Partner,4.86,1
+EVT-747703,STU-10997,Exception,Financial_Aid_Partner,48.1,1
+EVT-223453,STU-10998,Exception,Enrollment_Coach,54.35,0
+EVT-396439,STU-10999,Approved,Central_IT_Architect,56.35,0
+EVT-219550,STU-11000,Awaiting Action,Enrollment_Coach,33.97,0
+EVT-922880,STU-11001,Exception,Enrollment_Coach,14.87,1
+EVT-211425,STU-11002,Approved,Enrollment_Coach,64.89,1
+EVT-621917,STU-11003,Approved,Financial_Aid_Partner,13.39,1
+EVT-308296,STU-11004,Exception,Financial_Aid_Partner,25.38,1
+EVT-738584,STU-11005,Approved,Financial_Aid_Partner,6.63,0
+EVT-309452,STU-11006,Awaiting Action,Financial_Aid_Partner,141.46,1
+EVT-915749,STU-11007,Approved,Financial_Aid_Partner,67.82,0
+EVT-375769,STU-11008,Approved,Enrollment_Coach,68.32,1
+EVT-971889,STU-11009,Approved,Central_IT_Architect,25.11,0
+EVT-648558,STU-11010,Approved,Financial_Aid_Partner,11.64,0
+EVT-311469,STU-11011,Exception,Financial_Aid_Partner,36.1,0
+EVT-475308,STU-11012,Awaiting Action,Financial_Aid_Partner,117.77,1
+EVT-837606,STU-11013,Approved,Enrollment_Coach,17.49,0
+EVT-529660,STU-11014,Approved,Enrollment_Coach,41.1,0
+EVT-409698,STU-11015,Approved,Enrollment_Coach,7.23,0
+EVT-268163,STU-11016,Approved,Central_IT_Architect,41.67,0
+EVT-141319,STU-11017,Exception,Central_IT_Architect,1.11,1
+EVT-674765,STU-11018,Exception,Financial_Aid_Partner,15.7,1
+EVT-620465,STU-11019,Awaiting Action,Financial_Aid_Partner,77.45,0
+EVT-317782,STU-11020,Exception,Financial_Aid_Partner,20.37,0
+EVT-821634,STU-11021,Approved,Central_IT_Architect,64.93,0
+EVT-604012,STU-11022,Exception,Financial_Aid_Partner,38.72,1
+EVT-446663,STU-11023,Approved,Financial_Aid_Partner,70.1,1
+EVT-345896,STU-11024,Awaiting Action,Enrollment_Coach,34.16,0
+EVT-102871,STU-11025,Awaiting Action,Central_IT_Architect,55.86,1
+EVT-113368,STU-11026,Exception,Enrollment_Coach,36.35,1
+EVT-804258,STU-11027,Awaiting Action,Enrollment_Coach,67.77,0
+EVT-193326,STU-11028,Awaiting Action,Enrollment_Coach,110.44,0
+EVT-215795,STU-11029,Exception,Enrollment_Coach,42.48,1
+EVT-975804,STU-11030,Awaiting Action,Enrollment_Coach,165.58,0
+EVT-702042,STU-11031,Awaiting Action,Enrollment_Coach,39.11,1
+EVT-801520,STU-11032,Approved,Enrollment_Coach,13.1,0
+EVT-618105,STU-11033,Exception,Financial_Aid_Partner,25.61,1
+EVT-256389,STU-11034,Awaiting Action,Central_IT_Architect,101.44,0
+EVT-194458,STU-11035,Awaiting Action,Enrollment_Coach,166.64,0
+EVT-917392,STU-11036,Approved,Enrollment_Coach,16.46,1
+EVT-636561,STU-11037,Exception,Central_IT_Architect,8.21,0
+EVT-178693,STU-11038,Approved,Financial_Aid_Partner,70.89,1
+EVT-858711,STU-11039,Approved,Financial_Aid_Partner,8.99,0
+EVT-858724,STU-11040,Exception,Central_IT_Architect,8.03,0
+EVT-206210,STU-11041,Awaiting Action,Central_IT_Architect,146.54,0
+EVT-368322,STU-11042,Awaiting Action,Central_IT_Architect,49.1,0
+EVT-775636,STU-11043,Exception,Central_IT_Architect,50.77,1
+EVT-342389,STU-11044,Approved,Financial_Aid_Partner,40.16,1
+EVT-578938,STU-11045,Exception,Central_IT_Architect,3.02,0
+EVT-410401,STU-11046,Awaiting Action,Enrollment_Coach,162.12,0
+EVT-376955,STU-11047,Awaiting Action,Financial_Aid_Partner,110.58,0
+EVT-586830,STU-11048,Exception,Central_IT_Architect,20.49,1
+EVT-152512,STU-11049,Approved,Central_IT_Architect,43.27,0
+EVT-204657,STU-11050,Awaiting Action,Financial_Aid_Partner,165.33,1
+EVT-952679,STU-11051,Approved,Financial_Aid_Partner,70.29,1
+EVT-283188,STU-11052,Exception,Enrollment_Coach,32.02,0
+EVT-141360,STU-11053,Exception,Central_IT_Architect,39.93,0
+EVT-993647,STU-11054,Awaiting Action,Central_IT_Architect,124.42,0
+EVT-404681,STU-11055,Awaiting Action,Enrollment_Coach,121.78,0
+EVT-477712,STU-11056,Exception,Central_IT_Architect,13.67,1
+EVT-940534,STU-11057,Approved,Enrollment_Coach,5.1,1
+EVT-809641,STU-11058,Approved,Financial_Aid_Partner,60.57,1
+EVT-427897,STU-11059,Exception,Enrollment_Coach,34.3,0
+EVT-546688,STU-11060,Approved,Financial_Aid_Partner,48.93,1
+EVT-874415,STU-11061,Awaiting Action,Enrollment_Coach,164.03,0
+EVT-221531,STU-11062,Exception,Financial_Aid_Partner,71.91,0
+EVT-199613,STU-11063,Approved,Financial_Aid_Partner,35.45,1
+EVT-992596,STU-11064,Awaiting Action,Enrollment_Coach,124.05,1
+EVT-895034,STU-11065,Awaiting Action,Enrollment_Coach,72.15,1
+EVT-148118,STU-11066,Exception,Enrollment_Coach,47.45,1
+EVT-110142,STU-11067,Awaiting Action,Enrollment_Coach,115.67,0
+EVT-993385,STU-11068,Approved,Financial_Aid_Partner,10.41,1
+EVT-245117,STU-11069,Exception,Central_IT_Architect,28.9,0
+EVT-795578,STU-11070,Awaiting Action,Enrollment_Coach,151.35,1
+EVT-778636,STU-11071,Approved,Enrollment_Coach,7.41,1
+EVT-278795,STU-11072,Awaiting Action,Enrollment_Coach,70.13,0
+EVT-444625,STU-11073,Awaiting Action,Enrollment_Coach,146.7,0
+EVT-474894,STU-11074,Exception,Central_IT_Architect,4.75,0
+EVT-558976,STU-11075,Awaiting Action,Central_IT_Architect,93.69,0
+EVT-752011,STU-11076,Awaiting Action,Enrollment_Coach,72.59,0
+EVT-381342,STU-11077,Approved,Central_IT_Architect,42.88,0
+EVT-868677,STU-11078,Awaiting Action,Central_IT_Architect,111.82,0
+EVT-197466,STU-11079,Awaiting Action,Enrollment_Coach,108.45,1
+EVT-490722,STU-11080,Approved,Enrollment_Coach,60.36,1
+EVT-954551,STU-11081,Awaiting Action,Enrollment_Coach,79.37,1
+EVT-459370,STU-11082,Exception,Central_IT_Architect,20.13,1
+EVT-291752,STU-11083,Awaiting Action,Financial_Aid_Partner,116.42,1
+EVT-219361,STU-11084,Awaiting Action,Enrollment_Coach,57.85,0
+EVT-520245,STU-11085,Awaiting Action,Enrollment_Coach,108.8,0
+EVT-519692,STU-11086,Awaiting Action,Central_IT_Architect,166.33,0
+EVT-578715,STU-11087,Awaiting Action,Enrollment_Coach,57.88,0
+EVT-385037,STU-11088,Approved,Enrollment_Coach,28.88,0
+EVT-976303,STU-11089,Exception,Enrollment_Coach,34.31,0
+EVT-504452,STU-11090,Approved,Central_IT_Architect,43.47,1
+EVT-823415,STU-11091,Exception,Central_IT_Architect,29.18,1
+EVT-991993,STU-11092,Exception,Financial_Aid_Partner,34.94,1
+EVT-601476,STU-11093,Approved,Enrollment_Coach,20.15,1
+EVT-938754,STU-11094,Approved,Financial_Aid_Partner,55.32,0
+EVT-542226,STU-11095,Exception,Enrollment_Coach,7.87,0
+EVT-780364,STU-11096,Awaiting Action,Central_IT_Architect,112.95,1
+EVT-935620,STU-11097,Approved,Financial_Aid_Partner,35.85,1
+EVT-274880,STU-11098,Exception,Financial_Aid_Partner,45.28,1
+EVT-218548,STU-11099,Awaiting Action,Financial_Aid_Partner,153.19,1
+EVT-238948,STU-11100,Awaiting Action,Financial_Aid_Partner,68.82,1
+EVT-829987,STU-11101,Approved,Central_IT_Architect,3.9,0
+EVT-861697,STU-11102,Approved,Enrollment_Coach,5.01,0
+EVT-161495,STU-11103,Exception,Financial_Aid_Partner,48.86,0
+EVT-985364,STU-11104,Approved,Enrollment_Coach,69.99,0
+EVT-267138,STU-11105,Awaiting Action,Financial_Aid_Partner,130.39,0
+EVT-208751,STU-11106,Approved,Enrollment_Coach,48.93,1
+EVT-536236,STU-11107,Approved,Central_IT_Architect,11.08,1
+EVT-719446,STU-11108,Awaiting Action,Central_IT_Architect,133.16,0
+EVT-606121,STU-11109,Awaiting Action,Financial_Aid_Partner,113.44,0
+EVT-941235,STU-11110,Approved,Central_IT_Architect,5.6,0
+EVT-696580,STU-11111,Exception,Central_IT_Architect,54.14,0
+EVT-811346,STU-11112,Exception,Enrollment_Coach,55.29,1
+EVT-559447,STU-11113,Exception,Enrollment_Coach,57.1,0
+EVT-290065,STU-11114,Exception,Financial_Aid_Partner,14.62,1
+EVT-741018,STU-11115,Awaiting Action,Financial_Aid_Partner,33.1,1
+EVT-498197,STU-11116,Awaiting Action,Enrollment_Coach,78.24,1
+EVT-917012,STU-11117,Awaiting Action,Financial_Aid_Partner,67.06,1
+EVT-476018,STU-11118,Awaiting Action,Enrollment_Coach,46.26,1
+EVT-741055,STU-11119,Exception,Central_IT_Architect,61.91,1
+EVT-130216,STU-11120,Exception,Central_IT_Architect,39.4,1
+EVT-817712,STU-11121,Approved,Financial_Aid_Partner,68.59,0
+EVT-979269,STU-11122,Awaiting Action,Central_IT_Architect,53.83,0
+EVT-862606,STU-11123,Approved,Central_IT_Architect,31.05,1
+EVT-237002,STU-11124,Exception,Enrollment_Coach,65.88,0
+EVT-606545,STU-11125,Approved,Enrollment_Coach,27.68,1
+EVT-611833,STU-11126,Approved,Central_IT_Architect,22.72,0
+EVT-218423,STU-11127,Approved,Financial_Aid_Partner,27.16,0
+EVT-531262,STU-11128,Awaiting Action,Financial_Aid_Partner,29.94,0
+EVT-562094,STU-11129,Awaiting Action,Enrollment_Coach,157.01,0
+EVT-148205,STU-11130,Exception,Central_IT_Architect,40.12,1
+EVT-166412,STU-11131,Approved,Central_IT_Architect,61.96,0
+EVT-374320,STU-11132,Awaiting Action,Central_IT_Architect,110.32,0
+EVT-786789,STU-11133,Exception,Enrollment_Coach,50.87,1
+EVT-429502,STU-11134,Awaiting Action,Enrollment_Coach,160.23,1
+EVT-112960,STU-11135,Awaiting Action,Enrollment_Coach,130.58,1
+EVT-838793,STU-11136,Awaiting Action,Financial_Aid_Partner,71.67,0
+EVT-810859,STU-11137,Awaiting Action,Financial_Aid_Partner,64.41,1
+EVT-650311,STU-11138,Exception,Financial_Aid_Partner,7.96,0
+EVT-904812,STU-11139,Exception,Central_IT_Architect,48.63,0
+EVT-879746,STU-11140,Awaiting Action,Central_IT_Architect,116.86,1
+EVT-704660,STU-11141,Awaiting Action,Enrollment_Coach,133.63,0
+EVT-858931,STU-11142,Approved,Central_IT_Architect,41.24,0
+EVT-692458,STU-11143,Awaiting Action,Central_IT_Architect,99.25,1
+EVT-334865,STU-11144,Approved,Financial_Aid_Partner,61.53,0
+EVT-802382,STU-11145,Awaiting Action,Enrollment_Coach,164.78,0
+EVT-454733,STU-11146,Exception,Financial_Aid_Partner,28.24,0
+EVT-644315,STU-11147,Exception,Central_IT_Architect,35.67,1
+EVT-648513,STU-11148,Approved,Financial_Aid_Partner,69.91,1
+EVT-821673,STU-11149,Exception,Enrollment_Coach,44.46,0
+EVT-834611,STU-11150,Exception,Central_IT_Architect,25.46,1
+EVT-748270,STU-11151,Exception,Enrollment_Coach,70.4,0
+EVT-199868,STU-11152,Exception,Central_IT_Architect,23.14,0
+EVT-553873,STU-11153,Exception,Central_IT_Architect,2.12,0
+EVT-793856,STU-11154,Approved,Central_IT_Architect,3.34,0
+EVT-861949,STU-11155,Awaiting Action,Enrollment_Coach,117.49,1
+EVT-360651,STU-11156,Awaiting Action,Financial_Aid_Partner,65.89,0
+EVT-605339,STU-11157,Awaiting Action,Enrollment_Coach,27.9,0
+EVT-462544,STU-11158,Exception,Central_IT_Architect,2.03,1
+EVT-795951,STU-11159,Exception,Enrollment_Coach,64.19,0
+EVT-809147,STU-11160,Awaiting Action,Enrollment_Coach,146.04,1
+EVT-772561,STU-11161,Exception,Enrollment_Coach,7.1,0
+EVT-503572,STU-11162,Awaiting Action,Central_IT_Architect,72.04,0
+EVT-255875,STU-11163,Approved,Enrollment_Coach,25.79,0
+EVT-979789,STU-11164,Awaiting Action,Enrollment_Coach,59.26,0
+EVT-966582,STU-11165,Exception,Financial_Aid_Partner,47.64,0
+EVT-685466,STU-11166,Awaiting Action,Financial_Aid_Partner,101.89,1
+EVT-742686,STU-11167,Awaiting Action,Enrollment_Coach,154.6,0
+EVT-157216,STU-11168,Exception,Enrollment_Coach,42.7,0
+EVT-112210,STU-11169,Approved,Central_IT_Architect,65.56,0
+EVT-774652,STU-11170,Approved,Central_IT_Architect,4.81,1
+EVT-264550,STU-11171,Exception,Financial_Aid_Partner,22.02,0
+EVT-630126,STU-11172,Awaiting Action,Financial_Aid_Partner,119.93,1
+EVT-990079,STU-11173,Awaiting Action,Central_IT_Architect,60.14,0
+EVT-592085,STU-11174,Exception,Financial_Aid_Partner,23.55,1
+EVT-993251,STU-11175,Exception,Central_IT_Architect,33.24,1
+EVT-619920,STU-11176,Exception,Central_IT_Architect,62.18,0
+EVT-273438,STU-11177,Awaiting Action,Enrollment_Coach,123.13,1
+EVT-178501,STU-11178,Approved,Enrollment_Coach,64.91,1
+EVT-887931,STU-11179,Approved,Financial_Aid_Partner,19.27,0
+EVT-615530,STU-11180,Approved,Enrollment_Coach,50.14,1
+EVT-436208,STU-11181,Awaiting Action,Enrollment_Coach,127.75,0
+EVT-352593,STU-11182,Approved,Central_IT_Architect,70.98,0
+EVT-446968,STU-11183,Awaiting Action,Financial_Aid_Partner,111.76,0
+EVT-391668,STU-11184,Awaiting Action,Enrollment_Coach,79.24,0
+EVT-152796,STU-11185,Exception,Financial_Aid_Partner,41.27,0
+EVT-631553,STU-11186,Awaiting Action,Central_IT_Architect,70.65,0
+EVT-333524,STU-11187,Exception,Enrollment_Coach,7.29,1
+EVT-677236,STU-11188,Awaiting Action,Central_IT_Architect,87.98,1
+EVT-774567,STU-11189,Exception,Enrollment_Coach,24.26,1
+EVT-497030,STU-11190,Exception,Financial_Aid_Partner,36.25,1
+EVT-522866,STU-11191,Awaiting Action,Central_IT_Architect,25.37,0
+EVT-956794,STU-11192,Awaiting Action,Central_IT_Architect,149.33,0
+EVT-346415,STU-11193,Awaiting Action,Financial_Aid_Partner,34.54,0
+EVT-182659,STU-11194,Awaiting Action,Central_IT_Architect,52.12,1
+EVT-581395,STU-11195,Exception,Financial_Aid_Partner,31.45,0
+EVT-565765,STU-11196,Exception,Central_IT_Architect,35.83,1
+EVT-940183,STU-11197,Exception,Central_IT_Architect,61.02,0
+EVT-700870,STU-11198,Awaiting Action,Central_IT_Architect,115.53,0
+EVT-569865,STU-11199,Awaiting Action,Financial_Aid_Partner,44.81,1
+EVT-192295,STU-11200,Approved,Enrollment_Coach,38.63,0
