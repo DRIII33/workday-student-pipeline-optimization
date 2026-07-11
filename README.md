@@ -69,18 +69,32 @@ Captures system event logs and step timings for the core business process: `Prop
 
 ```
 workday-student-pipeline-optimization/
-├── .github/
-│   └── workflows/
-│       └── data_validation_ci.yml
+├── data/
+│   ├── wd_admissions_pipeline.csv
+│   └── wd_financial_aid_bps.csv
+│
 ├── data_generation/
-│   ├── __init__.py
 │   └── erp_mock_pipeline.py
+│
 ├── data_loading/
 │   └── bigquery_loader.py
+│
+├── docs/
+│   ├── Executive_Summary.md
+│   ├── Executive_Summary_Stalled_Student_Processes_Dashboard.md
+│   └── Project_Disclaimer.md
+│
+├── sheets_templates/
+│   └── eib_validation_matrix.md
+│
+├── sql_audits/
+│   ├── audit_v_tier3_stalled_bottlenecks.sql
+│   ├── audit_wd_admissions_pipeline.sql
+│   └── audit_wd_financial_aid_bps.sql
+│
 ├── sql_transforms/
 │   ├── architecture_schemas.json
 │   └── v_tier3_stalled_bottlenecks.sql
-├── sheets_templates/
-│   └── eib_validation_matrix.md
+│
 └── README.md
 ```
